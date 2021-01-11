@@ -1,0 +1,33 @@
+product,company
+Coca-Cola,The Coca-Cola Company
+Fanta,The Coca-Cola Company
+iPhone,Apple
+iPad,Apple
+iMac,Apple
+iPod,Apple
+MacOs,Apple
+Windows,Microsoft
+PlayStation,Sony
+Corolla,Toyota
+Land Cruiser,Toyota
+Pepsi,PepsiCo
+Lipitor,Pfizer
+Lyrica,Pfizer
+Humira,AbbVie
+Nexium,AstraZeneca
+Neulasta,Amgen
+GoPro HERO,GoPro
+Kindle,Amazon
+Chromecast,Google
+ThinkPad,Lenovo
+Xbox,Microsoft
+Powerpoint,Microsoft
+Keynote,Apple
+Android,Google
+Nexus One,HTC
+Camry,Toyota
+Accord,Honda
+Altima,Nissan
+Clio,Renault
+Qashqai,Nissan
+Golf,Volkswagen

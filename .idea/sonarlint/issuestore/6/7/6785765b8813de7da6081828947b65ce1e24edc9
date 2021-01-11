@@ -1,0 +1,14 @@
+
+csquid:S1192"IDefine a constant instead of duplicating this literal "23135106" 3 times.(ÈÓè±ıÿÿÿÿ
+^squid:S1192"JDefine a constant instead of duplicating this literal "369604103" 3 times.(ß¶­,
+csquid:S1192"IDefine a constant instead of duplicating this literal "60505104" 3 times.(’¥øœşÿÿÿÿ
+dsquid:S1192"JDefine a constant instead of duplicating this literal "803054204" 3 times.(–‡ûÿÿÿÿÿ
+`squid:S1192"FDefine a constant instead of duplicating this literal "CMCSA" 3 times.(Ö˜³‡ıÿÿÿÿ
+_squid:S1192"JDefine a constant instead of duplicating this literal "Runtime: " 4 times.(À÷ã¯
+_squid:S1192"JDefine a constant instead of duplicating this literal "459200101" 3 times.(ë£òò
+dsquid:S1192"JDefine a constant instead of duplicating this literal "20030N101" 3 times.(Ö˜³‡ıÿÿÿÿ
+_squid:S1192"JDefine a constant instead of duplicating this literal "594918104" 3 times.(ô˜Æ´
+dsquid:S1192"JDefine a constant instead of duplicating this literal "37045V100" 3 times.(íô¿»ùÿÿÿÿ
+\squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Ëå´ë
+›%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(Ëå´ë
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ûùÿúÿÿÿÿ

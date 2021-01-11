@@ -1,0 +1,9 @@
+
+\squid:S1134Ä"DTake the required action to fix the issue indicated by this comment.(·É¤¿
+„squid:S1319+"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(²ÙùÎ
+2squid:S3626P"Remove this redundant jump.(ûÁİ…
+„squid:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(–ëÓ
+2squid:S3626U"Remove this redundant jump.(ûÁİ…
+Œsquid:S1319/"uThe type of the "changedPriors" object should be an interface such as "Map" rather than the implementation "HashMap".(ÅİÑ•
+…squid:S1319"nThe type of the "buffer" object should be an interface such as "Map" rather than the implementation "HashMap".(‚îíü
+gsquid:CommentedOutCodeLine^"<This block of commented-out lines of code should be removed.(Û¥¯‹øÿÿÿÿ

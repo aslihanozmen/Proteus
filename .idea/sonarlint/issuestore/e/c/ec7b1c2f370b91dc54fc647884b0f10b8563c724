@@ -1,0 +1,21 @@
+
+Rsquid:UnusedPrivateMethodu"-Remove this unused private "isDouble" method.(íùí 
+csquid:CommentedOutCodeLineü"<This block of commented-out lines of code should be removed.(Õ‰úñ
+p
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(¡‚ÏÉ
+^squid:S1192"FDefine a constant instead of duplicating this literal "UTF-8" 3 times.(ŞãöŸ
+„"squid:ClassVariableVisibilityCheck#"VMake confidence a static final constant or non-public and provide accessors if needed.(“äÕ’
+jsquid:S3776‡"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(›·¸
+Qsquid:S4719Î"9Replace charset name argument with StandardCharsets.UTF_8(¯•
+usquid:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(úÔ×¹ıÿÿÿÿ
+wsquid:S1149§"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+vsquid:S2293´"YReplace the type specification in this constructor call with the diamond operator ("<>").(çâîÀıÿÿÿÿ
+‚"squid:ClassVariableVisibilityCheck&"TMake openrank a static final constant or non-public and provide accessors if needed.(äÎå—
+†"squid:ClassVariableVisibilityCheck'"SMake termSet a static final constant or non-public and provide accessors if needed.(åƒå×úÿÿÿÿ
+vsquid:S2293˜"YReplace the type specification in this constructor call with the diamond operator ("<>").(’õŸ–øÿÿÿÿ
+vsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Öµ ëúÿÿÿÿ
+"squid:ClassVariableVisibilityCheck$"RMake source a static final constant or non-public and provide accessors if needed.(±Õ…{
+vsquid:S2293¥"YReplace the type specification in this constructor call with the diamond operator ("<>").(–ÆÃäùÿÿÿÿ
+Qsquid:S4719ú"9Replace charset name argument with StandardCharsets.UTF_8(¯•
+Qsquid:S4719"9Replace charset name argument with StandardCharsets.UTF_8(ŞãöŸ
+Xsquid:UnusedPrivateMethodk".Remove this unused private "isInteger" method.(êÉàôùÿÿÿÿ

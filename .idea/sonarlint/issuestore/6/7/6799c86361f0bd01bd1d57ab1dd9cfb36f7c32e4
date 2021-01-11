@@ -1,0 +1,6 @@
+
+Psquid:S4719"9Replace charset name argument with StandardCharsets.UTF_8(Å¼ºý
+Vsquid:S3725":Replace this with a call to the "toFile().exists()" method( ÖáÓýÿÿÿÿ
+Ksquid:S2864C"4Iterate over the "entrySet" instead of the "keySet".(¶Ý«œ
+Psquid:S4719E"9Replace charset name argument with StandardCharsets.UTF_8(åý„›
+gsquid:CommentedOutCodeLine="<This block of commented-out lines of code should be removed.(ÆÇ¿Öüÿÿÿÿ

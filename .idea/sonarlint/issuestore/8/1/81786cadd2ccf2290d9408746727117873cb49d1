@@ -1,0 +1,8 @@
+
+usquid:S2293@"YReplace the type specification in this constructor call with the diamond operator ("<>").(§¶…Þûÿÿÿÿ
+psquid:S2293="YReplace the type specification in this constructor call with the diamond operator ("<>").(•«Ó‡
+nsquid:S3776#"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Õ¸±¬ÿÿÿÿÿ
+Ksquid:S2864&"4Iterate over the "entrySet" instead of the "keySet".(½¢³ç
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©ƒÞšøÿÿÿÿ
+Psquid:S2864C"4Iterate over the "entrySet" instead of the "keySet".(˜€ê¤øÿÿÿÿ
+‡squid:S1319R"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ýœîï

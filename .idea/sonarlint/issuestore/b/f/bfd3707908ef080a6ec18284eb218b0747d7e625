@@ -1,0 +1,20 @@
+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÚÓ¡·üÿÿÿÿ
+hsquid:CommentedOutCodeLine…"<This block of commented-out lines of code should be removed.( Õö´øÿÿÿÿ
+„squid:S1319/"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(²ÙùÎ
+squid:S1319¡"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ñ¬“ÿÿÿÿÿ
+¯%squid:RedundantThrowsDeclarationCheckµ"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(ÃÌ¶òøÿÿÿÿ
+csquid:CommentedOutCodeLine‰"<This block of commented-out lines of code should be removed.(¦¼§÷
+bsquid:UselessImportCheck">Remove this unused import 'java.nio.charset.StandardCharsets'.(ï˜ÞÛ
+Qsquid:S3725{":Replace this with a call to the "toFile().exists()" method(ÇðÞ»
+3squid:S3626±"Remove this redundant jump.(ûÁÝ…
+bsquid:CommentedOutCodeLine‹"<This block of commented-out lines of code should be removed.(ÍàL
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©ÓÍÆ
+bsquid:CommentedOutCodeLineB"<This block of commented-out lines of code should be removed.(£ëŒò
+Œsquid:S13193"uThe type of the "changedPriors" object should be an interface such as "Map" rather than the implementation "HashMap".(ÅÝÑ•
+Isquid:S1135?"2Complete the task associated to this TODO comment.(¢ìÖ–
+gsquid:CommentedOutCodeLineM"<This block of commented-out lines of code should be removed.(¼è÷ïøÿÿÿÿ
+hsquid:CommentedOutCodeLine¤"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ
+„squid:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(–ëÓ
+…squid:S1319#"nThe type of the "buffer" object should be an interface such as "Map" rather than the implementation "HashMap".(‚îíü
+2squid:S3626w"Remove this redundant jump.(ûÁÝ…

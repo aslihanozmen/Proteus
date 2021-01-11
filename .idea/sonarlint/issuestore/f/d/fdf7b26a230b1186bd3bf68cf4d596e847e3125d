@@ -1,0 +1,22 @@
+
+Zsquid:S1444"<Make this "public static groundTruthTransformer" field final(”Ã…°8ˆç›¤„.
+;squid:S2386"Make this member "protected".(ÛÍ¾÷8ˆç›¤„.
+;squid:S2386"Make this member "protected".(”Ã…°8ˆç›¤„.
+usquid:S1192G"RDefine a constant instead of duplicating this literal "Overall Runtime: " 5 times.(ÎçØüÿÿÿÿ8ˆç›¤„.
+—"squid:ClassVariableVisibilityCheck"bMake groundTruthTransformer a static final constant or non-public and provide accessors if needed.(”Ã…°8ˆç›¤„.
+Wsquid:S1444"4Make this "public static isUserInvolved" field final(ê¿Ä£ùÿÿÿÿ8ˆç›¤„.
+osquid:S3776~"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(°Ì¸S8ˆç›¤„.
+esquid:S2259"FA "NullPointerException" could be thrown; "wordsKey" is nullable here.(ÉÓìİ8ˆç›¤„.
+"squid:ClassVariableVisibilityCheck"XMake examplePairs a static final constant or non-public and provide accessors if needed.(ÛÍ¾÷8ˆç›¤„.
+jsquid:S2259‡"FA "NullPointerException" could be thrown; "wordsKey" is nullable here.(¿ã‘Âıÿÿÿÿ8ˆç›¤„.
+ssquid:UselessImportCheck"HRemove this unused import 'main.transformer.precisionRecall.Functional'.(õ´˜›8ˆç›¤„.
+qsquid:S3776Ø"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(Ëñ¿¿8ˆç›¤„.
+]squid:S1444":Make this "public static numberOfExamplePairs" field final(Ê˜†Øûÿÿÿÿ8ˆç›¤„.
+Psquid:S1444"2Make this "public static examplePairs" field final(ÛÍ¾÷8ˆç›¤„.
+Jsquid:S1168¼"+Return an empty collection instead of null.(¥¹ï8ˆç›¤„.
+š"squid:ClassVariableVisibilityCheck"`Make numberOfExamplePairs a static final constant or non-public and provide accessors if needed.(Ê˜†Øûÿÿÿÿ8ˆç›¤„.
+Ssquid:S1066Ğ"/Merge this if statement with the enclosing one.(éàÀşÿÿÿÿ8ˆç›¤„.
+”"squid:ClassVariableVisibilityCheck"ZMake isUserInvolved a static final constant or non-public and provide accessors if needed.(ê¿Ä£ùÿÿÿÿ8ˆç›¤„.
+Esquid:S1075›"&Remove this hard-coded path-delimiter.(Âøûğ8ˆç›¤„.
+lsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ğ¹Ø 8ˆç›¤„.
+gsquid:S2259"HA "NullPointerException" could be thrown; "wordsValue" is nullable here.(™ºÕø8ˆç›¤„.

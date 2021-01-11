@@ -1,0 +1,98 @@
+<project name="dataXFormer" default="main" basedir=".">
+    <description>
+      DataXFormer - Transformation by example
+    </description>
+    <!-- set global properties for this build -->
+    <property name="src" location="src"/>
+    <property name="build" location="build"/>
+    <property name="dist" location="dist"/>
+    <property name="lib" location="lib"/>
+    <property name="dist.lib.dir" location="dist/lib" />
+    <property name="main-class" value="main.dataXFormerDriver"/>
+    <property name="version" value="context"/>
+
+    <target name="init">
+    <!-- Create the time stamp -->
+        <tstamp/>
+    <!-- Create the build directory structure used by compile -->
+        <mkdir dir="${build}"/>
+    </target>
+
+	<path id="classpath">
+		<fileset dir="${lib}/">
+			<include name="**/*.jar" />
+		</fileset>
+        <pathelement path="${build}"/>
+	</path>
+
+    <!-- To work with external libraries, need classpath to compile -->
+	<target name="compile" depends="init" description="compile the source ">
+		<javac includeantruntime="false" srcdir="${src}" destdir="${build}" classpathref="classpath" />
+	</target>
+
+    <!-- Group all dependencies into a big dependency-all.jar -->
+    <target name="copy-dependencies">
+
+        <mkdir dir="${dist.lib.dir}" />
+
+        <jar jarfile="${dist.lib.dir}/dependencies-all.jar">
+            <zipgroupfileset dir="${lib}">
+                <include name="**/*.jar" />
+            </zipgroupfileset>
+        </jar>
+
+    </target>
+
+    <!-- jar it, extract above dependency-all.jar and zip it with project files -->
+    <target name="fat-jar" depends="compile, copy-dependencies"
+            description="package, output to JAR">
+
+        <mkdir dir="${dist}" />
+        <mkdir dir="${dist.lib.dir}" />
+
+        <jar jarfile="${dist}/xformer-${version}-with-dependencies.jar" basedir="${build}">
+            <manifest>
+                <attribute name="Main-Class" value="${main-class}" />
+            </manifest>
+            <zipfileset src="${dist.lib.dir}/dependencies-all.jar"
+                        excludes="META-INF/*.SF" />
+            <fileset dir="${basedir}">
+                <include name="resources/*.properties"/>
+            </fileset>
+        </jar>
+
+    </target>
+
+    <target name="jar" depends="compile" description="packages classes into jar">
+        <mkdir dir="${dist}" />
+
+        <jar jarfile="${dist}/xformer-${version}.jar" basedir="${build}">
+            <manifest>
+                <attribute name="Main-Class" value="${main-class}" />
+            </manifest>
+            <fileset dir="${basedir}">
+                <include name="resources/*.properties"/>
+            </fileset>
+        </jar>
+
+    </target>
+
+    <target name="zip" depends="jar" description="packages zip with jar and dependencies">
+        <zip destfile="${dist}/xformer-${version}.zip">
+            <fileset file="${dist}/xformer-${version}.jar" />
+            <fileset dir="${basedir}" includes="scripts/*.py"/>
+            <fileset dir="${basedir}" includes="scripts/*.sql"/>
+            <zipfileset dir="." includes="lib/**/*" />
+        </zip>
+    </target>
+
+    <target name="clean"
+        description="clean up">
+    <!-- Delete the ${build} and ${dist} directory trees -->
+        <delete dir="${build}"/>
+        <delete dir="${dist}"/>
+    </target>
+
+    <!-- Default, run this -->
+	<target name="main" depends="clean, compile, jar" />
+</project>

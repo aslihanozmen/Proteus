@@ -1,0 +1,101 @@
+
+`squid:UnusedPrivateMethod"8Remove this unused private "findFDsWithColInLHS" method.(Üøæ¨üÿÿÿÿ
+Gsquid:S1135"2Complete the task associated to this TODO comment.(êÌ­ï
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¸Ë¾¾üÿÿÿÿ
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÿŸ¸Î
+Š"squid:ClassVariableVisibilityCheck"YMake fuzzyMatching a static final constant or non-public and provide accessors if needed.(©óñ•üÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ù¤é—ûÿÿÿÿ
+Fsquid:S1068"1Remove this unused "colMatchersTo" private field.(™ø¤¾
+0squid:S3626"Remove this redundant jump.(ÉŠ©ƒ
+Msquid:S1444"8Make this "public static COVERAGE_THRESHOLD" field final(à®òî
+•squid:S1319"{The type of the "tableToPriorPartial" object should be an interface such as "Map" rather than the implementation "HashMap".(Ù¤é—ûÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Á±şŞúÿÿÿÿ
+Gsquid:S1172"2Remove this unused method parameter "closedWorld".(¸ÃÕ¨
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(œøãùşÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(øùß»üÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(À©òŸ
+r
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+‚squid:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(ôĞâÊ
+Š"squid:ClassVariableVisibilityCheck"YMake toConvergence a static final constant or non-public and provide accessors if needed.(±ÆÄ„ıÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ç¾¸âÿÿÿÿÿ
+Jsquid:S1481"0Remove this unused "scoreOfNone" local variable.(‘È€şûÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(“•üëüÿÿÿÿ
+Dsquid:S1172"/Remove this unused method parameter "keywords".(¿êÕ±
+>squid:S00108")Either remove or fill this block of code.(Îı~
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(úÈÂÑ
+Csquid:S1481")Remove this unused "topk" local variable.(É£ÜŸşÿÿÿÿ
+„"squid:ClassVariableVisibilityCheck"XMake originalOnly a static final constant or non-public and provide accessors if needed.(ªÊÛ¹
+„squid:S1319"oThe type of the "answers" object should be an interface such as "Map" rather than the implementation "HashMap".(Î”ú·
+Bsquid:S1481"(Remove this unused "tid" local variable.(ÃÌÛ¯ÿÿÿÿÿ
+"squid:ClassVariableVisibilityCheck"_Make tableToPriorPartial a static final constant or non-public and provide accessors if needed.(Ù¤é—ûÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾×°øüÿÿÿÿ
+Bsquid:S1481"-Remove this unused "maxScore" local variable.(¶¤’
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÅĞÉòûÿÿÿÿ
+msquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(üá¦#
+Dsquid:S00108")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+"squid:ClassVariableVisibilityCheck"aMake tableToAnswersPartial a static final constant or non-public and provide accessors if needed.(Ì˜Óª
+Psquid:S1444"6Make this "public static schemaMatchPrior" field final(ùÂäÉÿÿÿÿÿ
+asquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Üøæ¨üÿÿÿÿ
+„"squid:ClassVariableVisibilityCheck"SMake message a static final constant or non-public and provide accessors if needed.(ãÀ¥úÿÿÿÿ
+Dsquid:S1066"/Merge this if statement with the enclosing one.(Ÿ˜¨
+Ysquid:S1134"DTake the required action to fix the issue indicated by this comment.(·É¤¿
+gsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(Î”ú·
+Nsquid:S2864"4Iterate over the "entrySet" instead of the "keySet".(ÅÿŒşÿÿÿÿ
+msquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾£d
+Psquid:S3518";Make sure "count" can't be zero before doing this division.(¯†…
+asquid:UselessImportCheck":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ
+hsquid:S3776"SRefactor this method to reduce its Cognitive Complexity from 166 to the 15 allowed.(Üæ€¨
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(§–Æƒ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Á±şŞúÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(âãØşÿÿÿÿ
+[squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(†Éç
+"squid:ClassVariableVisibilityCheck"PMake done a static final constant or non-public and provide accessors if needed.(Û×‡¸ıÿÿÿÿ
+gsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Çµí‘
+rsquid:S3008"]Rename this field "COVERAGE_THRESHOLD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à®òî
+Dsquid:S1066"/Merge this if statement with the enclosing one.(Ùó®
+esquid:S1192"KDefine a constant instead of duplicating this literal "Iteration " 4 times.(ÒåãÓüÿÿÿÿ
+’squid:S1319"}The type of the "tableToAnswersPartial" object should be an interface such as "Map" rather than the implementation "HashMap".(Ì˜Óª
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÑµª
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(æúœûÿÿÿÿ
+œsquid:S1319"The type of the "tableToSchemaPriorPartial" object should be an interface such as "Map" rather than the implementation "HashMap".(Ëç‰üÿÿÿÿ
+]squid:S3518"CMake sure this expression can't be zero before doing this division.(ç·å‡üÿÿÿÿ
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(€å¡«
+…"squid:ClassVariableVisibilityCheck"YMake consolidation a static final constant or non-public and provide accessors if needed.(ñºÅ»
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡‰èÛıÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(øùß»üÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(îÌ’ßüÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(°ùüÿÿÿÿ
+Msquid:S1068"3Remove this unused "colMatchersFrom" private field.(íçö’ûÿÿÿÿ
+Isquid:S2864"4Iterate over the "entrySet" instead of the "keySet".(Ö¤ÙŠ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(´ääÿøÿÿÿÿ
+Zsquid:UnusedPrivateMethod"8Remove this unused private "findFDsWithColAsLHS" method.(†Éç
+m
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ë©œ¦
+Nsquid:S2864"4Iterate over the "entrySet" instead of the "keySet".(ÅÿŒşÿÿÿÿ
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢¿„º
+\squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ßéÜì
+lsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ãÇ‡úÿÿÿÿ
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(İÔÈû
+"squid:ClassVariableVisibilityCheck"]Make schemaMatchWeight a static final constant or non-public and provide accessors if needed.(¨Ä«ùÿÿÿÿ
+Esquid:S1481"0Remove this unused "indexReader" local variable.(”¨†¢
+Gsquid:S1444"2Make this "public static originalOnly" field final(ªÊÛ¹
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(øùß»üÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ã¹ğı
+–"squid:ClassVariableVisibilityCheck"eMake tableToSchemaPriorPartial a static final constant or non-public and provide accessors if needed.(Ëç‰üÿÿÿÿ
+Jsquid:S1481"0Remove this unused "maxNQueries" local variable.(¶Îİúÿÿÿÿ
+?squid:S3398"%Move this method into "TableChecker".(«“ÁŞûÿÿÿÿ
+ƒ"squid:ClassVariableVisibilityCheck"RMake result a static final constant or non-public and provide accessors if needed.(¨’Ì»üÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Á±şŞúÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ëç‰üÿÿÿÿ
+Msquid:S1172"3Remove this unused method parameter "keysPerQuery".(Œ€¤øÿÿÿÿ
+`squid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(è®ã¶øÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼€ê´ùÿÿÿÿ
+Asquid:S1481",Remove this unused "tableID" local variable.(á¦ÈÜ
+Š"squid:ClassVariableVisibilityCheck"^Make COVERAGE_THRESHOLD a static final constant or non-public and provide accessors if needed.(à®òî
+Qsquid:S1444"7Make this "public static schemaMatchWeight" field final(¨Ä«ùÿÿÿÿ
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹ë¹Á
+Csquid:S1066"/Merge this if statement with the enclosing one.(šÀ<
+"squid:ClassVariableVisibilityCheck"\Make schemaMatchPrior a static final constant or non-public and provide accessors if needed.(ùÂäÉÿÿÿÿÿ
+gsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(“–ış
+Msquid:S1444"3Make this "public static toConvergence" field final(±ÆÄ„ıÿÿÿÿ

@@ -1,0 +1,533 @@
+Animal,Genus and Species
+Frogs,Rana capito
+Frogs,Rana catesbeiana
+Frogs,Rana clamitans
+Frogs,Rana grylio
+Frogs,Rana heckscheri
+Frogs,Rana pipiens
+Frogs,Rana sphenocephala
+Frogs,Rana spp.
+Narrow-Mouth Toads and Sheep Frogs,Gastrophryne carolinensis
+Salamanders,Ambystoma maculatum
+Salamanders,Eurycea bislineata
+Spadefoot Toads,Scaphiopus holbrookii
+Toads,Bufo quercicus
+Toads,Bufo terrestris
+Tree Frogs,Acris crepitans
+Tree Frogs,Acris crepitans blanchardi
+Tree Frogs,Hyla andersonii
+Tree Frogs,Hyla cinerea
+Albatross,Phoebastria immutabilis
+Albatross,Phoebastria nigripes
+Anhingas,Anhinga anhinga
+Auks and Puffins,Aethia spp.
+Auks and Puffins,Aethia cristatella
+Auks and Puffins,Aethia psittacula
+Auks and Puffins,Aethia pusilla
+Auks and Puffins,Aethia pygmaea
+Auks and Puffins,Alle alle
+Auks and Puffins,Alca torda
+Auks and Puffins,Brachyramphus brevirostris
+Auks and Puffins,Brachyramphus marmoratus
+Auks and Puffins,Cepphus columba
+Auks and Puffins,Cerorhinca monocerata
+Auks and Puffins,Fratercula cirrhata
+Auks and Puffins,Fratercula corniculata
+Auks and Puffins,Ptychoramphus aleuticus
+Auks and Puffins,Synthiloboramphus antiquus
+Auks and Puffins,Uria aalge
+Auks and Puffins,Uria lomvia
+Auks and Puffins,Uria spp.
+Avocets and Stilts,Himantopus mexicanus
+Avocets and Stilts,Recurvirostra americana
+Barn Owls,Tyto alba
+"Blackbirds, Orioles, and Allies",Agelaius phoeniceus
+"Blackbirds, Orioles, and Allies",Agelaius tricolor
+"Blackbirds, Orioles, and Allies",Dolichonyx oryzivorus
+"Blackbirds, Orioles, and Allies",Euphagus carolinus
+"Blackbirds, Orioles, and Allies",Icterus galbula
+"Blackbirds, Orioles, and Allies",Molothrus ater
+"Blackbirds, Orioles, and Allies",Quiscalus major
+"Blackbirds, Orioles, and Allies",Quiscalus mexicanus
+"Blackbirds, Orioles, and Allies",Quiscalus quiscula
+"Blackbirds, Orioles, and Allies",Sturnella magna
+"Blackbirds, Orioles, and Allies",Sturnella neglecta
+Chickadees and Titmice,Baeolophus spp.
+Chickadees and Titmice,Poecile atricapillus
+Chickadees and Titmice,Poecile carolinensis
+"Coots, Rails, and Gallinules",Fulica americana
+"Coots, Rails, and Gallinules",Gallinula chloropus
+"Coots, Rails, and Gallinules",Porphyrio martinica
+"Coots, Rails, and Gallinules",Porzana carolina
+"Coots, Rails, and Gallinules",Rallus elegans
+"Coots, Rails, and Gallinules",Rallus limicola
+"Coots, Rails, and Gallinules",Rallus longirostris
+"Coots, Rails, and Gallinules",Rallus longirostris obsoletus
+Cormorants,Phalacrocorax auritus
+Cormorants,Phalacrocorax brasilianus
+Cormorants,Phalacrocorax carbo
+Cormorants,Phalacrocorax olivaceus
+Cormorants,Phalacrocorax pelagicus
+Cormorants,Phalacrocorax penicillatus
+Cormorants,Phalacrocorax spp.
+Cormorants,Phalacrocorax urile
+Cranes,Grus canadensis
+Cranes,Grus canadensis pulla
+"Crows, Ravens, and Jays",Aphelocoma coerulescens
+"Crows, Ravens, and Jays",Corvus brachyrhynchos
+"Crows, Ravens, and Jays",Corvus caurinus
+"Crows, Ravens, and Jays",Corvus corax
+"Crows, Ravens, and Jays",Corvus ossifragus
+"Crows, Ravens, and Jays",Corvus spp.
+"Crows, Ravens, and Jays",Cyanocitta cristata
+"Crows, Ravens, and Jays",Cyanocitta stelleri
+"Crows, Ravens, and Jays",Cyanocorax yncas
+"Crows, Ravens, and Jays",Pica nuttalli
+"Crows, Ravens, and Jays",Pica pica
+Cuckoos and Allies,Coccyzus americanus
+Cuckoos and Allies,Coccyzus erythropthalmus
+Cuckoos and Allies,Cuculus canorus
+Falcons,Falco columbarius
+Falcons,Falco femoralis
+Falcons,Falco mexicanus
+Falcons,Falco peregrinus
+Falcons,Falco rusticolus
+Falcons,Falco sparverius
+Falcons,Polyborus plancus
+Finches,Caprodacus spp.
+Finches,Carpodacus mexicanus
+Flycatchers,Sayornis phoebe
+Frigatebirds,Fregata minor
+Gannets and Boobies,Sula bassanus
+Gannets and Boobies,Sula sula
+Grebes,Aechmophorus clarkii
+Grebes,Aechmophorus occidentalis
+Grebes,Aechmophorus spp.
+Grebes,Podiceps auritus
+Grebes,Podiceps grisegena
+Grebes,Podiceps nigricollis
+Grebes,Podilymbus podiceps
+Grosbeaks and Buntings,Cardinalis cardinalis
+Grosbeaks and Buntings,Carduelis tristis
+Grosbeaks and Buntings,Carpodacus mexicanus
+Grosbeaks and Buntings,Guiraca caerulea
+Grosbeaks and Buntings,Leucosticte tephrocotis
+Grosbeaks and Buntings,Passerina cyanea
+Grosbeaks and Buntings,Pheucticus melanocephalus
+Grosbeaks and Buntings,Spiza americana
+"Gulls, Terns, Jaegers, and Kittiwakes",Anous stolidus
+"Gulls, Terns, Jaegers, and Kittiwakes",Chlidonias niger
+"Gulls, Terns, Jaegers, and Kittiwakes",Gygis alba
+"Gulls, Terns, Jaegers, and Kittiwakes",Larus argentatus
+"Gulls, Terns, Jaegers, and Kittiwakes",Larus atricilla
+"Gulls, Terns, Jaegers, and Kittiwakes",Larus californicus
+"Gulls, Terns, Jaegers, and Kittiwakes",Larus canus
+"Gulls, Terns, Jaegers, and Kittiwakes",Larus delawarensis
+"Gulls, Terns, Jaegers, and Kittiwakes",Larus glaucescens
+"Gulls, Terns, Jaegers, and Kittiwakes",Larus heermanni
+"Gulls, Terns, Jaegers, and Kittiwakes",Larus marinus
+"Gulls, Terns, Jaegers, and Kittiwakes",Larus minutus
+"Gulls, Terns, Jaegers, and Kittiwakes",Larus occidentalis
+"Gulls, Terns, Jaegers, and Kittiwakes",Larus philadelphia
+"Gulls, Terns, Jaegers, and Kittiwakes",Larus pipixcan
+"Gulls, Terns, Jaegers, and Kittiwakes",Larus spp.
+"Gulls, Terns, Jaegers, and Kittiwakes",Rissa tridactyla
+"Gulls, Terns, Jaegers, and Kittiwakes",Stercorarius longicaudus
+"Gulls, Terns, Jaegers, and Kittiwakes",Stercorarius parasiticus
+"Gulls, Terns, Jaegers, and Kittiwakes",Stercorarius pomarinus
+"Gulls, Terns, Jaegers, and Kittiwakes",Sterna albifrons
+"Gulls, Terns, Jaegers, and Kittiwakes",Sterna aleutica
+"Gulls, Terns, Jaegers, and Kittiwakes",Sterna anaethetus
+"Gulls, Terns, Jaegers, and Kittiwakes",Sterna antillarum browni
+"Gulls, Terns, Jaegers, and Kittiwakes",Sterna caspia
+"Gulls, Terns, Jaegers, and Kittiwakes",Sterna dougallii
+"Gulls, Terns, Jaegers, and Kittiwakes",Sterna elegans
+"Gulls, Terns, Jaegers, and Kittiwakes",Sterna forsteri
+"Gulls, Terns, Jaegers, and Kittiwakes",Sterna fuscata
+"Gulls, Terns, Jaegers, and Kittiwakes",Sterna hirundo
+"Gulls, Terns, Jaegers, and Kittiwakes",Sterna lunata
+"Gulls, Terns, Jaegers, and Kittiwakes",Sterna maxima
+"Gulls, Terns, Jaegers, and Kittiwakes",Sterna nilotica
+"Gulls, Terns, Jaegers, and Kittiwakes",Sterna paradisaea
+"Gulls, Terns, Jaegers, and Kittiwakes",Sterna sandvicensis
+"Gulls, Terns, Jaegers, and Kittiwakes",Sterna spp.
+"Hawks, Eagles, and Kites",Accipiter cooperii
+"Hawks, Eagles, and Kites",Accipiter gentiles
+"Hawks, Eagles, and Kites",Accipiter striatus
+"Hawks, Eagles, and Kites",Aquila chrysaetos
+"Hawks, Eagles, and Kites",Buteo jamaicensis
+"Hawks, Eagles, and Kites",Buteo lagopus
+"Hawks, Eagles, and Kites",Buteo lineatus
+"Hawks, Eagles, and Kites",Buteo platypterus
+"Hawks, Eagles, and Kites",Buteo swainsoni
+"Hawks, Eagles, and Kites",Circus cyaneus
+"Hawks, Eagles, and Kites",Elanoides forficatus
+"Hawks, Eagles, and Kites",Elanus leucurus
+"Hawks, Eagles, and Kites",Haliaeetus leucocephalus
+"Hawks, Eagles, and Kites",Rostrhamus sociabilis
+Herons and Bitterns,Multiple species
+Herons and Bitterns,Ardea albus
+Herons and Bitterns,Ardea herodias
+Herons and Bitterns,Ardea herodias occidentalis
+Herons and Bitterns,Botaurus lentiginosus
+Herons and Bitterns,Bubulcus ibis
+Herons and Bitterns,Butorides virescens
+Herons and Bitterns,Egretta caerulea
+Herons and Bitterns,Egretta rufescens
+Herons and Bitterns,Egretta thula
+Herons and Bitterns,Egretta tricolor
+Herons and Bitterns,Ixobrychus exilis
+Herons and Bitterns,Nycticorax nycticorax
+Herons and Bitterns,Nycticorax violaceus
+Ibises and Spoonbills,Eudocimus albus
+Ibises and Spoonbills,Platalea ajaja
+Ibises and Spoonbills,Plegadis chihi
+Ibises and Spoonbills,Plegadis falcinellus
+Kingfishers,Megaceryle alcyon
+Loons,Gavia arctica
+Loons,Gavia immer
+Loons,Gavia pacifica
+Loons,Gavia spp.
+Loons,Gavia stellata
+Mockingbirds and Thrashers,Dumetella carolinensis
+Mockingbirds and Thrashers,Mimus polyglottos
+Mockingbirds and Thrashers,Toxostoma rufum
+Nuthatches,Sitta pusilla
+Osprey,Pandion haliaetus
+Owls,Aegolius acadicus
+Owls,Asio flammeus
+Owls,Asio otus
+Owls,Athene cunicularia
+Owls,Bubo virginianus
+Owls,Nyctea scandiaca
+Owls,Otus asio
+Owls,Strix varia
+Oystercatchers,Haematopus bachmani
+Oystercatchers,Haematopus palliatus
+Pelicans,Pelecanus erythrorhynchos
+Pelicans,Pelecanus occidentalis
+Pelicans,Pelecanus spp.
+"Petrels, Fulmars, and Shearwaters",Fulmarus glacialis
+"Petrels, Fulmars, and Shearwaters",Pterodroma hypoleuca
+"Petrels, Fulmars, and Shearwaters",Pterodroma inexpectata
+"Petrels, Fulmars, and Shearwaters",Puffinus griseus
+"Petrels, Fulmars, and Shearwaters",Puffinus nativitatis
+"Petrels, Fulmars, and Shearwaters",Puffinus pacificus
+"Petrels, Fulmars, and Shearwaters",Puffinus tenuirostris
+"Pheasants, Quail, Grouse, Turkeys , and Ptarmigans",Bonasa umbellus
+"Pheasants, Quail, Grouse, Turkeys , and Ptarmigans",Callipepla californica
+"Pheasants, Quail, Grouse, Turkeys , and Ptarmigans",Colinus virginianus
+"Pheasants, Quail, Grouse, Turkeys , and Ptarmigans",Lagopus lagopus
+"Pheasants, Quail, Grouse, Turkeys , and Ptarmigans",Lagopus mutus
+"Pheasants, Quail, Grouse, Turkeys , and Ptarmigans",Meleagris gallopavo
+"Pheasants, Quail, Grouse, Turkeys , and Ptarmigans",Phasianus colchicus
+"Pheasants, Quail, Grouse, Turkeys , and Ptarmigans",Tympanuchus cupido attwateri
+Pigeons and Doves,Columba livia
+Pigeons and Doves,Columbina passerina
+Pigeons and Doves,Geopelia striata
+Pigeons and Doves,Zenaida asiatica
+Pigeons and Doves,Zenaida macroura
+Plovers and Killdeer,Charadrius alexandrinus
+Plovers and Killdeer,Charadrius alexandrinus nivosus
+Plovers and Killdeer,Charadrius melodus
+Plovers and Killdeer,Charadrius semipalmatus
+Plovers and Killdeer,Charadrius vociferus
+Plovers and Killdeer,Pluvialis dominica
+Plovers and Killdeer,Pluvialis fulva
+Plovers and Killdeer,Pluvialis squatarola
+"Sandpipers, Dowitchers, Curlews, and Phalaropes",Actitis macularia
+"Sandpipers, Dowitchers, Curlews, and Phalaropes",Aphriza virgata
+"Sandpipers, Dowitchers, Curlews, and Phalaropes",Arenaria interpres
+"Sandpipers, Dowitchers, Curlews, and Phalaropes",Arenaria melanocephala
+"Sandpipers, Dowitchers, Curlews, and Phalaropes",Bartramia ostralegus
+"Sandpipers, Dowitchers, Curlews, and Phalaropes",Calidris alba
+"Sandpipers, Dowitchers, Curlews, and Phalaropes",Calidris alpina
+"Sandpipers, Dowitchers, Curlews, and Phalaropes",Calidris canutus
+"Sandpipers, Dowitchers, Curlews, and Phalaropes",Calidris mauri
+"Sandpipers, Dowitchers, Curlews, and Phalaropes",Calidris melanotos
+"Sandpipers, Dowitchers, Curlews, and Phalaropes",Calidris minutilla
+"Sandpipers, Dowitchers, Curlews, and Phalaropes",Calidris ptilocnemis
+"Sandpipers, Dowitchers, Curlews, and Phalaropes",Calidris pusilla
+"Sandpipers, Dowitchers, Curlews, and Phalaropes",Catoptrophorus semipalmatus
+"Sandpipers, Dowitchers, Curlews, and Phalaropes",Heteroscelus incanus
+"Sandpipers, Dowitchers, Curlews, and Phalaropes",Limnodromus griseus
+"Sandpipers, Dowitchers, Curlews, and Phalaropes",Limnodromus scolopaceus
+"Sandpipers, Dowitchers, Curlews, and Phalaropes",Limosa fedoa
+"Sandpipers, Dowitchers, Curlews, and Phalaropes",Numenius americanus
+"Sandpipers, Dowitchers, Curlews, and Phalaropes",Numenius phaeopus
+"Sandpipers, Dowitchers, Curlews, and Phalaropes",Numenius spp.
+"Sandpipers, Dowitchers, Curlews, and Phalaropes",Numenius tahitiensis
+"Sandpipers, Dowitchers, Curlews, and Phalaropes",Phalaropus fulicarius
+"Sandpipers, Dowitchers, Curlews, and Phalaropes",Phalaropus lobatus
+"Sandpipers, Dowitchers, Curlews, and Phalaropes",Scolopax minor
+"Sandpipers, Dowitchers, Curlews, and Phalaropes",Tringa flavipes
+"Sandpipers, Dowitchers, Curlews, and Phalaropes",Tringa melanoleuca
+"Sandpipers, Dowitchers, Curlews, and Phalaropes",Tringa solitaria
+Shrikes,Lanius ludovicianus
+Skimmers,Rynchops niger
+"Sparrows, Juncos, and Towhees",Aimophila aestivalis
+"Sparrows, Juncos, and Towhees",Ammodramus caudacutus
+"Sparrows, Juncos, and Towhees",Ammodramus maritimus
+"Sparrows, Juncos, and Towhees",Ammodramus nelsoni
+"Sparrows, Juncos, and Towhees",Ammodramus savannarum
+"Sparrows, Juncos, and Towhees",Ammodramus spp.
+"Sparrows, Juncos, and Towhees",Calcarius lapponicus
+"Sparrows, Juncos, and Towhees",Junco hyemalis
+"Sparrows, Juncos, and Towhees",Loxia leucoptera
+"Sparrows, Juncos, and Towhees",Melospiza georgiana
+"Sparrows, Juncos, and Towhees",Melospiza lincolnii
+"Sparrows, Juncos, and Towhees",Melospiza melodia
+"Sparrows, Juncos, and Towhees",Passerculus sandwichensis
+"Sparrows, Juncos, and Towhees",Passerella iliaca
+"Sparrows, Juncos, and Towhees",Pipilo erythrophthalmus
+"Sparrows, Juncos, and Towhees",Plectrophenax nivalis
+"Sparrows, Juncos, and Towhees",Spizella arborea
+"Sparrows, Juncos, and Towhees",Spizella passerina
+"Sparrows, Juncos, and Towhees",Zonotrichia albicollis
+Starlings,Acridotheres tristis
+Starlings,Anthus spinoletta
+Starlings,Sturnus vulgaris
+Storks,Mycteria americana
+Storm-Petrels,Oceanodroma furcata
+Storm-Petrels,Oceanodroma homochroa
+Storm-Petrels,Oceanodroma leucorhoa
+Storm-Petrels,Oceanodroma spp.
+Swallows,Hirundo rustica
+Swallows,Petrochelidon fulva
+Swallows,Petrochelidon spp.
+Swallows,Petrochelidon pyrrhonota
+Swallows,Progne subis
+Swallows,Tachycineta bicolor
+Swallows,Tachycineta thalassina
+"Swans, Geese, and Ducks",Multiple species
+"Swans, Geese, and Ducks",Multiple species
+"Swans, Geese, and Ducks",Aix sponsa
+"Swans, Geese, and Ducks",Anas acuta
+"Swans, Geese, and Ducks",Anas americana
+"Swans, Geese, and Ducks",Anas clypeata
+"Swans, Geese, and Ducks",Anas crecca
+"Swans, Geese, and Ducks",Anas cyanoptera
+"Swans, Geese, and Ducks",Anas discors
+"Swans, Geese, and Ducks",Anas fulvigula
+"Swans, Geese, and Ducks",Anas platyrhynchos
+"Swans, Geese, and Ducks",Anas platyrhynchos
+"Swans, Geese, and Ducks",Anas platyrhynchos
+"Swans, Geese, and Ducks",Anas platyrhynchos domesticus
+"Swans, Geese, and Ducks",Anas rubripes
+"Swans, Geese, and Ducks",Anas rubripes & platyrhynchos
+"Swans, Geese, and Ducks",Anas sp.
+"Swans, Geese, and Ducks",Anas spp.
+"Swans, Geese, and Ducks",Anas strepera
+"Swans, Geese, and Ducks",Anser albifrons
+"Swans, Geese, and Ducks",Anser albifrons frontalis
+"Swans, Geese, and Ducks",Anser anser
+"Swans, Geese, and Ducks",Anser caerulescens
+"Swans, Geese, and Ducks",Anser fabalis
+"Swans, Geese, and Ducks",Aythya affinis
+"Swans, Geese, and Ducks",Aythya americana
+"Swans, Geese, and Ducks",Aythya collaris
+"Swans, Geese, and Ducks",Aythya marila
+"Swans, Geese, and Ducks",Aythya spp.
+"Swans, Geese, and Ducks",Aythya valisineria
+"Swans, Geese, and Ducks",Branta bernicla
+"Swans, Geese, and Ducks",Branta canadensis
+"Swans, Geese, and Ducks",Branta Canadensis leucopareia
+"Swans, Geese, and Ducks",Bucephala albeola
+"Swans, Geese, and Ducks",Bucephala clangula
+"Swans, Geese, and Ducks",Bucephala islandica
+"Swans, Geese, and Ducks",Bucephala spp.
+"Swans, Geese, and Ducks",Cairina moschata
+"Swans, Geese, and Ducks",Chen caerulescens
+"Swans, Geese, and Ducks",Chen canagica
+"Swans, Geese, and Ducks",Clangula hyemalis
+"Swans, Geese, and Ducks",Cygnus buccinator
+"Swans, Geese, and Ducks",Cygnus columbianus
+"Swans, Geese, and Ducks",Cygnus olor
+"Swans, Geese, and Ducks",Cygnus spp.
+"Swans, Geese, and Ducks",Dendrocygna autumnalis
+"Swans, Geese, and Ducks",Dendrocygna bicolor
+"Swans, Geese, and Ducks",Histrionicus histrionicus
+"Swans, Geese, and Ducks",Lophodytes cucullatus
+"Swans, Geese, and Ducks",Melanitta fusca
+"Swans, Geese, and Ducks",Melanitta nigra
+"Swans, Geese, and Ducks",Melanitta perspicillata
+"Swans, Geese, and Ducks",Melanitta spp.
+"Swans, Geese, and Ducks",Mergus merganser
+"Swans, Geese, and Ducks",Mergus serrator
+"Swans, Geese, and Ducks",Mergus spp.
+"Swans, Geese, and Ducks",Olor columbianus
+"Swans, Geese, and Ducks",Oxyura jamaicensis
+"Swans, Geese, and Ducks",Polysticta stelleri
+"Swans, Geese, and Ducks",Somateria fischeri
+"Swans, Geese, and Ducks",Somateria mollissima
+"Swans, Geese, and Ducks",Somateria spectabilis
+Swifts,Hirundapus caudacatus
+Tanagers,Piranga olivacea
+Tanagers,Piranga rubra
+Thrushes,Catharus bicknelli
+Thrushes,Catharus guttatus
+Thrushes,Catharus ustulatus
+Thrushes,Ixoreus naevius
+Thrushes,Sialia sialis
+Thrushes,Turdus migratorius
+Tropicbirds,Phaethon rubricauda
+Vireos,Vireo griseus
+Vireos,Vireo olivaceus
+Vireos,Vireo plumbeus
+Vultures,Cathartes aura
+Vultures,Coragyps atratus
+Vultures,Gymnogyps californianus
+Waxwings,Bombycilla cedrorum
+Weaver Finches,Passer domesticus
+Wood Warblers,Dendroica caerulescens
+Wood Warblers,Dendroica castanea
+Wood Warblers,Dendroica coronata
+Wood Warblers,Dendroica palmarum
+Wood Warblers,Dendroica pinus
+Wood Warblers,Dendroica striata
+Wood Warblers,Geothlypis trichas
+Wood Warblers,Mniotilta varia
+Wood Warblers,Protonotaria citrea
+Wood Warblers,Seiurus aurocapillus
+Wood Warblers,Seiurus noveboracensis
+Wood Warblers,Setophaga ruticilla
+Wood Warblers,Vermivora celata
+Woodpeckers,Colaptes auratus
+Woodpeckers,Dryocopus pileatus
+Woodpeckers,Melanerpes carolinus
+Woodpeckers,Melanerpes formicivorus
+Woodpeckers,Melanerpes erythrocephalus
+Woodpeckers,Picoides borealis
+Wrens,Cistothorus palustris
+Wrens,Thryothorus ludovici
+Wrens,Troglodytes aedon
+Armadillo,Dasypus novemcinctus
+Bats,Eptesicus fuscus
+Bats,Lasiurus borealis
+Bats,Myotis lucifugus
+Bats,Nycticeius humeralis
+Bears,Ursus maritimus
+Cats,Felis concolor coryi
+Cats,Leopardus pardalis
+Cats,Lynx rufus
+Deer,Alces alces
+Deer,Cervus elaphus
+Deer,Odocoileus hemionus
+Deer,Odocoileus virginianus
+Fur Seals and Sea Lions,Callorhinus ursinus
+Fur Seals and Sea Lions,Eumetopias jubatus
+Fur Seals and Sea Lions,Zalophus californianus
+Hares and Rabbits,Lepus americanus
+Hares and Rabbits,Lepus californicus
+Hares and Rabbits,Sylvilagus floridanus
+Hares and Rabbits,Sylvilagus palustris
+Kangaroo Rats,Dipodomys stephensi
+"Mice, Rats, and Voles",Microtus californicus
+"Mice, Rats, and Voles",Microtus ochrogaster
+"Mice, Rats, and Voles",Microtus pennsylvanicus
+"Mice, Rats, and Voles",Mus musculus
+"Mice, Rats, and Voles",Ondatra zibethicus
+"Mice, Rats, and Voles",Oryzomys palustris
+"Mice, Rats, and Voles",Peromyscus leucopus
+"Mice, Rats, and Voles",Peromyscus maniculatus
+"Mice, Rats, and Voles",Peromyscus spp.
+"Mice, Rats, and Voles",Rattus exulans
+"Mice, Rats, and Voles",Rattus norvegicus
+"Mice, Rats, and Voles",Rattus rattus
+"Mice, Rats, and Voles",Reithrodontomys humulis
+"Mice, Rats, and Voles",Reithrodontomys megalot
+"Mice, Rats, and Voles",Sigmodon hispidus
+"Mice, Rats, and Voles",Sigmodon spp.
+"Mice, Rats, and Voles",Zapus hudsonius
+Moles,Neurotrichus gibbsii
+Mongooses,Herpestes javanicus
+"Muskrats, Marmots, and Beavers",Castor Canadensis
+"Muskrats, Marmots, and Beavers",Marmota monax
+Opossums,Didelphis virginiana
+Raccoons,Procyon lotor
+Shrews,Blarina brevicauda
+Shrews,Cryptotis parva
+Shrews,Sorex arcticus
+Shrews,Sorex cinereus
+Shrews,Sorex ornatus
+Shrews,Sorex spp.
+Shrews,Sorex trowbridgii
+Squirrels,Glaucomys spp.
+Squirrels,Sciurus carolinensis
+Squirrels,Sciurus niger
+Squirrels,Spermophilus beecheyi
+Squirrels,Spermophilus tridecemlin
+Squirrels,Spermophilus undulatus
+Squirrels,Tamias striatus
+Squirrels,Tamiasciurus hudsonicus
+"True, Eared, or Hair Seals",Erignathus barbatus
+"True, Eared, or Hair Seals",Histriophoca fasciata
+"True, Eared, or Hair Seals",Mirounga angustirostris
+"True, Eared, or Hair Seals",Phoca hispida
+"True, Eared, or Hair Seals",Phoca largha
+"True, Eared, or Hair Seals",Phoca vitulina
+Walrus,Odobenus rosmarus divergens
+"Weasels, Skunks, and Otters",Enhydra lutris
+"Weasels, Skunks, and Otters",Lontra canadensis
+"Weasels, Skunks, and Otters",Martes americana
+"Weasels, Skunks, and Otters",Martes pennanti
+"Weasels, Skunks, and Otters",Mephitis mephitis
+"Weasels, Skunks, and Otters",Mustela frenata
+"Weasels, Skunks, and Otters",Mustela vison
+"Wolves, Foxes, and Coyotes",Canis latrans
+"Wolves, Foxes, and Coyotes",Urocyon cinereoargenteus
+"Wolves, Foxes, and Coyotes",Vulpes vulpes
+Crocodiles and Alligators,Alligator mississippiensis
+Crocodiles and Alligators,Crocodylus acutus
+Fence Lizards,Sceloporus undulatus undulatus
+Glass Lizards,Ophisaurus spp.
+Musk and Mud Turtles,Kinosternon baurii
+Musk and Mud Turtles,Kinosternon flavescens
+Musk and Mud Turtles,Kinosternon subrubrum
+Musk and Mud Turtles,Sternotherus minor minor
+Musk and Mud Turtles,Sternotherus odoratus
+"Pond, Marsh, and Box Turtles",Chrysemys picta
+"Pond, Marsh, and Box Turtles",Chrysemys picta picta
+"Pond, Marsh, and Box Turtles",Deirochelys reticularia
+"Pond, Marsh, and Box Turtles",Emydiodea blandingi
+"Pond, Marsh, and Box Turtles",Graptemys flavimaculata
+"Pond, Marsh, and Box Turtles",Graptemys geographica
+"Pond, Marsh, and Box Turtles",Malaclemys terrapin
+"Pond, Marsh, and Box Turtles",Pseudemys concinna
+"Pond, Marsh, and Box Turtles",Pseudemys concinna floridana
+"Pond, Marsh, and Box Turtles",Pseudemys concinna suwanniensis
+"Pond, Marsh, and Box Turtles",Pseudemys nelsoni
+"Pond, Marsh, and Box Turtles",Pseudemys peninsularis
+"Pond, Marsh, and Box Turtles",Pseudemys rubriventris
+"Pond, Marsh, and Box Turtles",Pseudemys scripta elegans
+"Pond, Marsh, and Box Turtles",Terrapene carolina
+"Pond, Marsh, and Box Turtles",Trachemys scripta
+Sea Turtles,Caretta caretta
+Sea Turtles,Chelonia mydas
+Sea Turtles,Dermochelys coriacea
+Sea Turtles,Lepidochelys kempi
+Skinks,Eumeces spp.
+Snakes,Agkistrodon piscivorus
+Snakes,Coluber constrictor
+Snakes,Crotalus horridus
+Snakes,Nerodia cyclopion
+Snakes,Nerodia erythrogaster
+Snakes,Nerodia erythrogaster flavigas
+Snakes,Nerodia fasciata
+Snakes,Nerodia fasciata confluens
+Snakes,Nerodia rhombifera
+Snakes,Nerodia sipedon
+Snakes,Nerodia sipedon insularum
+Snakes,Nerodia spp.
+Snakes,Nerodia taxispilota
+Snakes,Pituophis melanoleucus
+Snakes,Thamnophis proximus
+Snakes,Thamnophis sauritus
+Snakes,Thamnophis sirtalis
+Snapping Turtles,Chelydra serpentina
+Softshell Turtles,Apalone ferox
+Softshell Turtles,Apalone spinifera
+Softshell Turtles,Apalone spp.
+Tortoises,Gopherus polyphemus
+Whiptail and Racerunner Lizards,Cnemidophorus gularis
+Whiptail and Racerunner Lizards,Cnemidophorus sexlineatus

@@ -1,0 +1,29 @@
+team,country
+Real Madrid C.F.,Spain
+F.C. Barcelona,Spain
+Atletico de Madrid,Spain
+Paris Saint-Germain F.C.,France
+A.C. Milan,Italy
+Internazionale,Italy
+A.S. Roma,Italy
+S.S. Lazio,Italy
+Arsenal F.C.,England
+Tottenham Hotspur F.C.,England
+Manchester United F.C.,England
+Manchester City F.C.,England
+U.C. Sampdoria,Italy
+Genoa C.F.C.,Italy
+Liverpool F.C.,England
+FC Steaua Bucuresti,Romania
+Red Star Belgrade,Serbia
+S.S.C. Napoli,Italy
+Rayo Vallecano,Spain
+A.C. Chievo Verona,Italy
+Olympique Lyonnais,France
+Olympique de Marseille,France
+R.S.C. Anderlecht,Belgium
+Chelsea F.C.,England
+Fluminense FC,Brasil
+Club Atletico River Plate,Argentina
+Boca Juniors,Argentina
+Juventus F.C.,Italy

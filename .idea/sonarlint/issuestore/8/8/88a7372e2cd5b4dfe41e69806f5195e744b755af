@@ -1,0 +1,61 @@
+
+usquid:S11929"YDefine a constant instead of duplicating this literal " SELECT t1.tableid FROM " 3 times.(÷ÿš‚ûÿÿÿÿ
+bsquid:S2147ï"ECombine this catch with the one at line 363, which has the same body.(é–³öûÿÿÿÿ
+dsquid:S2147‰"ECombine this catch with the one at line 257, which has the same body.(É®£8ªÒ§Â·.
+[squid:S2147Y"DCombine this catch with the one at line 87, which has the same body.(‹±ÃÆ
+Usquid:S47192"9Replace charset name argument with StandardCharsets.UTF_8(®Åîêÿÿÿÿÿ
+dsquid:S2147§"ECombine this catch with the one at line 157, which has the same body.(ıàÑÎ8ªÒ§Â·.
+dsquid:S2147ƒ"ECombine this catch with the one at line 257, which has the same body.(‹±ÃÆ8ªÒ§Â·.
+]squid:S2147ó"ECombine this catch with the one at line 363, which has the same body.(É®£
+ksquid:S1192Ö"GDefine a constant instead of duplicating this literal ".rowid" 4 times.(İö¨Óüÿÿÿÿ8ªÒ§Â·.
+]squid:S4719—"9Replace charset name argument with StandardCharsets.UTF_8(®Åîêÿÿÿÿÿ8ªÒ§Â·.
+Usquid:S4719n"9Replace charset name argument with StandardCharsets.UTF_8(¤ËäÈùÿÿÿÿ
+Osquid:S1197o"8Move the array designator from the variable to the type.(‰ŠËù
+dsquid:S2147¥"ECombine this catch with the one at line 157, which has the same body.(É®£8ªÒ§Â·.
+dsquid:S2147Ÿ"ECombine this catch with the one at line 157, which has the same body.(‹±ÃÆ8ªÒ§Â·.
+Qsquid:UselessImportCheck".Remove this unused import 'java.util.HashSet'.(Ê‚êX
+~squid:S1192Ö"ZDefine a constant instead of duplicating this literal ".tableid AND t1.rowid = t" 4 times.(İö¨Óüÿÿÿÿ8ªÒ§Â·.
+\squid:S1197­"8Move the array designator from the variable to the type.(±éÜ°úÿÿÿÿ8ªÒ§Â·.
+Tsquid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+Wsquid:S1197±"8Move the array designator from the variable to the type.(‰ŠËù8ªÒ§Â·.
+]squid:S2147õ"ECombine this catch with the one at line 363, which has the same body.(ıàÑÎ
+ssquid:S1192Õ"TDefine a constant instead of duplicating this literal " AND t1.tableid = t" 4 times.(‚î¥²8ªÒ§Â·.
+]squid:S2147ñ"ECombine this catch with the one at line 363, which has the same body.(ï­£Ä
+Usquid:S4719/"9Replace charset name argument with StandardCharsets.UTF_8(¤ËäÈùÿÿÿÿ
+]squid:S4719³"9Replace charset name argument with StandardCharsets.UTF_8(®Åîêÿÿÿÿÿ8ªÒ§Â·.
+qsquid:S3776‘"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(Ï³©¥8ªÒ§Â·.
+:squid:S3626ì"Remove this redundant jump.(ÉŠ©ƒ8ªÒ§Â·.
+Tsquid:S1197k"8Move the array designator from the variable to the type.(ğôà³şÿÿÿÿ
+esquid:S11926"IDefine a constant instead of duplicating this literal "database" 4 times.(¦òÁöøÿÿÿÿ
+[squid:S2147_"DCombine this catch with the one at line 87, which has the same body.(É®£
+o
+squid:S135B"YReduce the total number of break and continue statements in this loop to use at most one.(øë÷
+dsquid:S2147‹"ECombine this catch with the one at line 257, which has the same body.(ıàÑÎ8ªÒ§Â·.
+fsquid:S1192Ê"HDefine a constant instead of duplicating this literal "?) AS t" 4 times.(Å¾¬F8ªÒ§Â·.
+`squid:S2147["DCombine this catch with the one at line 87, which has the same body.(é–³öûÿÿÿÿ
+Wsquid:S1197‘"8Move the array designator from the variable to the type.(Ï³©¥8ªÒ§Â·.
+Usquid:S4719q"9Replace charset name argument with StandardCharsets.UTF_8(®Åîêÿÿÿÿÿ
+isquid:S2147¡"ECombine this catch with the one at line 157, which has the same body.(é–³öûÿÿÿÿ8ªÒ§Â·.
+bsquid:S1192/"FDefine a constant instead of duplicating this literal "UTF-8" 8 times.(¤ËäÈùÿÿÿÿ
+Wsquid:S1197•"8Move the array designator from the variable to the type.(‰ŠËù8ªÒ§Â·.
+vsquid:S3776­"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(±éÜ°úÿÿÿÿ8ªÒ§Â·.
+Tsquid:S1197,"8Move the array designator from the variable to the type.(Şö‘äùÿÿÿÿ
+Osquid:S11970"8Move the array designator from the variable to the type.(‰ŠËù
+]squid:S4719”"9Replace charset name argument with StandardCharsets.UTF_8(¤ËäÈùÿÿÿÿ8ªÒ§Â·.
+Ÿsquid:S1192:"‚Define a constant instead of duplicating this literal " (SELECT tableid, rowid FROM tokenized_to_col  where tokenized = " 4 times.(ËÏïüÿÿÿÿ
+w
+squid:S135…"YReduce the total number of break and continue statements in this loop to use at most one.(øë÷8ªÒ§Â·.
+isquid:S2147…"ECombine this catch with the one at line 257, which has the same body.(é–³öûÿÿÿÿ8ªÒ§Â·.
+[squid:S2147a"DCombine this catch with the one at line 87, which has the same body.(ıàÑÎ
+]squid:S4719°"9Replace charset name argument with StandardCharsets.UTF_8(¤ËäÈùÿÿÿÿ8ªÒ§Â·.
+:squid:S3626æ"Remove this redundant jump.(ÉŠ©ƒ8ªÒ§Â·.
+Wsquid:UselessImportCheck".Remove this unused import 'test.GeneralTests'.(ÿÜ„¾ıÿÿÿÿ
+dsquid:S2147‡"ECombine this catch with the one at line 257, which has the same body.(ï­£Ä8ªÒ§Â·.
+3squid:S3626Î"Remove this redundant jump.(ÉŠ©ƒ
+dsquid:S2147£"ECombine this catch with the one at line 157, which has the same body.(ï­£Ä8ªÒ§Â·.
+osquid:S11924"XDefine a constant instead of duplicating this literal "com.vertica.jdbc.Driver" 4 times.(›ÃÆ
+]squid:S2147í"ECombine this catch with the one at line 363, which has the same body.(‹±ÃÆ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(§Èºà
+`squid:S1192>"IDefine a constant instead of duplicating this literal " LIMIT 1" 4 times.(ñ·Œ©
+3squid:S3626Ô"Remove this redundant jump.(ÉŠ©ƒ
+[squid:S2147]"DCombine this catch with the one at line 87, which has the same body.(ï­£Ä
