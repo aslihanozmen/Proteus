@@ -1,0 +1,12 @@
+
+Jsquid:S2864)"4Iterate over the "entrySet" instead of the "keySet".(³Ÿœ
+asquid:S11557">Use isEmpty() to check whether the collection is empty or not.(ÕŸÓ¶üÿÿÿÿ8—¹Â·.
+7squid:S2068_" Remove this hard-coded password.(¨ÛËÊ
+esquid:CallToDeprecatedMethod+"1Remove this use of "CSVWriter"; it is deprecated.(…¦ÊËıÿÿÿÿ8—¹Â·.
+Ysquid:S2184."BCast one of the operands of this division operation to a "double".(ª–şÀ
+asquid:S1155<">Use isEmpty() to check whether the collection is empty or not.(ÕŸÓ¶üÿÿÿÿ8—¹Â·.
+gsquid:CommentedOutCodeLinei"<This block of commented-out lines of code should be removed.(ª±ÍÑıÿÿÿÿ
+=squid:S1170"!Make this final field static too.(İÖ¸™úÿÿÿÿ
+ssquid:S00116"[Rename this field "NUMBER_OF_TABLES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó’©
+qsquid:S00116"TRename this field "BATCHSIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İÖ¸™úÿÿÿÿ
+Fsquid:S00108N")Either remove or fill this block of code.(é–³öûÿÿÿÿ

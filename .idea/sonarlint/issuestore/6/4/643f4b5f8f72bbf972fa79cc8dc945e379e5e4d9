@@ -1,0 +1,5 @@
+
+Qsquid:S1141c"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Osquid:S3878e"8Remove this array creation and simply pass the elements.(ÑÖ½¢
+Gsquid:S1481H"+Remove this unused "entDef" local variable.(¥¸îÛüÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(§Èºà

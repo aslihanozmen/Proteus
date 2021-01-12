@@ -1,0 +1,7 @@
+
+`squid:S1192"IDefine a constant instead of duplicating this literal ".json.gz" 3 times.(è×¶¥
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ÕÊÄùùÿÿÿÿ
+Psquid:S2864>"4Iterate over the "entrySet" instead of the "keySet".(¾»Ëşÿÿÿÿ
+Usquid:S4719@"9Replace charset name argument with StandardCharsets.UTF_8(ÿ’âşÿÿÿÿ
+Psquid:S2864R"4Iterate over the "entrySet" instead of the "keySet".(¾»Ëşÿÿÿÿ
+Usquid:S4719T"9Replace charset name argument with StandardCharsets.UTF_8(å¸Ù…øÿÿÿÿ

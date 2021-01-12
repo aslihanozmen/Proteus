@@ -1,0 +1,364 @@
+
+osquid:CommentedOutCodeLine¦"<This block of commented-out lines of code should be removed.(¥‹Á¬ùÿÿÿÿ8ÖÚÃ¥„.
+osquid:CommentedOutCodeLineº"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ÖÚÃ¥„.
+csquid:S1134Á"DTake the required action to fix the issue indicated by this comment.(ğÚë§8ÚêÁ¥„.
+}squid:S2293†"YReplace the type specification in this constructor call with the diamond operator ("<>").(†µØñÿÿÿÿÿ8ÖÚÃ¥„.
+Ysquid:S2696W"6Make the enclosing method "static" or remove this set.(œ­Í£ùÿÿÿÿ8ÑÉ‰î¤.
+Rsquid:S2864Î"4Iterate over the "entrySet" instead of the "keySet".(£ˆ»[8ÖÚÃ¥„.
+Osquid:S1481Ï"+Remove this unused "result" local variable.(Ì™áÄıÿÿÿÿ8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(íŠ¸Ÿ8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLine·
+"<This block of commented-out lines of code should be removed.(†ïŸ¹8ÖÚÃ¥„.
+hsquid:CommentedOutCodeLineI"<This block of commented-out lines of code should be removed.(»Ö¡V8á»Í‡Ÿ.
+osquid:CommentedOutCodeLineÃ
+"<This block of commented-out lines of code should be removed.(ÅàßØùÿÿÿÿ8ÖÚÃ¥„.
+osquid:CommentedOutCodeLineÂ"<This block of commented-out lines of code should be removed.(İ‘ÃÛüÿÿÿÿ8ÖÚÃ¥„.
+tsquid:S2068a"V'password' detected in this expression, review this potentially hard-coded credential.(š™Öî8ÚêÁ¥„.
+isquid:CommentedOutCodeLineÂ"<This block of commented-out lines of code should be removed.(¤œ<8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLine‹"<This block of commented-out lines of code should be removed.(çŒ²Ø8ÖÚÃ¥„.
+|squid:S2293o"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÿ·¶ÿÿÿÿÿ8ÚêÁ¥„.
+Usquid:S2696ä"6Make the enclosing method "static" or remove this set.(¾™„Ó8ÚêÁ¥„.
+jsquid:CommentedOutCodeLine›"<This block of commented-out lines of code should be removed.(Õ–ÑÀ8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLineñ"<This block of commented-out lines of code should be removed.(šˆıæ8ÖÚÃ¥„.
+isquid:CommentedOutCodeLine÷"<This block of commented-out lines of code should be removed.(Ö©8ÚêÁ¥„.
+osquid:CommentedOutCodeLine£"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ÚêÁ¥„.
+osquid:CommentedOutCodeLine¨"<This block of commented-out lines of code should be removed.(ˆ½€ßûÿÿÿÿ8ÖÚÃ¥„.
+osquid:CommentedOutCodeLineè"<This block of commented-out lines of code should be removed.(ë§ç¶ûÿÿÿÿ8ÑÉ‰î¤.
+jsquid:CommentedOutCodeLineı	"<This block of commented-out lines of code should be removed.(êŞˆ‚8ÖÚÃ¥„.
+osquid:CommentedOutCodeLineØ
+"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ÖÚÃ¥„.
+¥squid:S1186Ü"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(©¤„Íıÿÿÿÿ8ÖÚÃ¥„.
+Tsquid:S2696V"6Make the enclosing method "static" or remove this set.(ÉíØ8ÑÉ‰î¤.
+Qsquid:S1135®"2Complete the task associated to this TODO comment.(®‡ÿ¤8ÖÚÃ¥„.
+msquid:HiddenFieldChecko"?Rename "groundTruth" which hides the field declared at line 44.(ÿ·¶ÿÿÿÿÿ8ÚêÁ¥„.
+jsquid:CommentedOutCodeLine—"<This block of commented-out lines of code should be removed.(Ûîüø8ÖÚÃ¥„.
+osquid:CommentedOutCodeLineÖ"<This block of commented-out lines of code should be removed.(»œ–Œúÿÿÿÿ8ÖÚÃ¥„.
+}squid:S2293¦"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÿ·¶ÿÿÿÿÿ8ÚêÁ¥„.
+osquid:CommentedOutCodeLineÊ
+"<This block of commented-out lines of code should be removed.(ˆû¼şÿÿÿÿ8ÖÚÃ¥„.
+Osquid:S1444,"1Make this "public static groundTruth" field final(Íš‡ä8ÚêÁ¥„.
+osquid:CommentedOutCodeLineä	"<This block of commented-out lines of code should be removed.(öË€Åıÿÿÿÿ8ÑÉ‰î¤.
+osquid:CommentedOutCodeLine‘
+"<This block of commented-out lines of code should be removed.(İ‘ÃÛüÿÿÿÿ8ÖÚÃ¥„.
+esquid:S1192¢"GDefine a constant instead of duplicating this literal "COLUMN" 6 times.(«ïÀ8ÚêÁ¥„.
+osquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(åÈÿ¿ÿÿÿÿÿ8ÚêÁ¥„.
+osquid:CommentedOutCodeLine€"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ÚêÁ¥„.
+osquid:CommentedOutCodeLineú"<This block of commented-out lines of code should be removed.(Ñúåüÿÿÿÿ8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLine³	"<This block of commented-out lines of code should be removed.(¶ÒÔÍ8ÖÚÃ¥„.
+osquid:CommentedOutCodeLineÇ"<This block of commented-out lines of code should be removed.(Ï¨¼«øÿÿÿÿ8ÖÚÃ¥„.
+}squid:S2293›"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ì Ãªûÿÿÿÿ8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLineî"<This block of commented-out lines of code should be removed.(µ×›ö8ÖÚÃ¥„.
+osquid:CommentedOutCodeLine‡"<This block of commented-out lines of code should be removed.(†Òµîÿÿÿÿÿ8ÖÚÃ¥„.
+š"squid:ClassVariableVisibilityCheck."`Make initialExampleCounts a static final constant or non-public and provide accessors if needed.(ª¶Ñ®ùÿÿÿÿ8ÚêÁ¥„.
+jsquid:CommentedOutCodeLine²"<This block of commented-out lines of code should be removed.(êŞˆ‚8ÚêÁ¥„.
+jsquid:CommentedOutCodeLineĞ"<This block of commented-out lines of code should be removed.(–£Ì˜8ÑÉ‰î¤.
+Ysquid:S3725":Replace this with a call to the "toFile().exists()" method(ÇğŞ»8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLineğ"<This block of commented-out lines of code should be removed.(ş±¦8ÖÚÃ¥„.
+osquid:CommentedOutCodeLineÁ"<This block of commented-out lines of code should be removed.(ãî½úÿÿÿÿ8ÚêÁ¥„.
+osquid:CommentedOutCodeLineç"<This block of commented-out lines of code should be removed.(ÌÆ˜­ûÿÿÿÿ8ÚêÁ¥„.
+jsquid:CommentedOutCodeLine©"<This block of commented-out lines of code should be removed.(ÂÓÿ…8ÖÚÃ¥„.
+osquid:CommentedOutCodeLine›"<This block of commented-out lines of code should be removed.(àˆî¼ûÿÿÿÿ8ÖÚÃ¥„.
+osquid:CommentedOutCodeLine×"<This block of commented-out lines of code should be removed.(šÏÿ±úÿÿÿÿ8ÖÚÃ¥„.
+osquid:CommentedOutCodeLine‘	"<This block of commented-out lines of code should be removed.(ˆû¼şÿÿÿÿ8ÖÚÃ¥„.
+osquid:CommentedOutCodeLine®"<This block of commented-out lines of code should be removed.(¹éãÚıÿÿÿÿ8ÖÚÃ¥„.
+osquid:CommentedOutCodeLineÙ"<This block of commented-out lines of code should be removed.(è®Ç­şÿÿÿÿ8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLineê"<This block of commented-out lines of code should be removed.(Èœ¾ó8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLine’"<This block of commented-out lines of code should be removed.(Èœ¾ó8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLineå"<This block of commented-out lines of code should be removed.(æ¬¹Å8ÖÚÃ¥„.
+osquid:CommentedOutCodeLineø"<This block of commented-out lines of code should be removed.(†È«ìüÿÿÿÿ8ÖÚÃ¥„.
+vsquid:S3252»"WUse static access with "query.multiColumn.AbstractMultiColVerticaQuerier" for "Policy".(Öş¤¡8ÖÚÃ¥„.
+osquid:CommentedOutCodeLine‡	"<This block of commented-out lines of code should be removed.(ÅàßØùÿÿÿÿ8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLineª	"<This block of commented-out lines of code should be removed.(ÂÛ»8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLineƒ"<This block of commented-out lines of code should be removed.(ƒĞ˜í8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLine€"<This block of commented-out lines of code should be removed.(Ò©œ¨8ÚêÁ¥„.
+jsquid:CommentedOutCodeLine´"<This block of commented-out lines of code should be removed.(‡‹â¢8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLineû"<This block of commented-out lines of code should be removed.(†ïŸ¹8ÖÚÃ¥„.
+osquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(¼á­Áşÿÿÿÿ8ÖÚÃ¥„.
+osquid:CommentedOutCodeLineÓ"<This block of commented-out lines of code should be removed.( ½¾¤ÿÿÿÿÿ8ÖÚÃ¥„.
+Zsquid:S2696á"6Make the enclosing method "static" or remove this set.(±Ñ›ßùÿÿÿÿ8ÚêÁ¥„.
+osquid:CommentedOutCodeLine¸"<This block of commented-out lines of code should be removed.(šâ¯ñÿÿÿÿÿ8ÑÉ‰î¤.
+isquid:CommentedOutCodeLine“
+"<This block of commented-out lines of code should be removed.(Á¬ÌC8ÖÚÃ¥„.
+esquid:S1126£"AReplace this if-then-else statement by a single return statement.(Ö÷ƒ¹ùÿÿÿÿ8ÖÚÃ¥„.
+osquid:CommentedOutCodeLineø"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ÖÚÃ¥„.
+isquid:CommentedOutCodeLineĞ	"<This block of commented-out lines of code should be removed.(ÁÕƒ8ÖÚÃ¥„.
+osquid:CommentedOutCodeLine™"<This block of commented-out lines of code should be removed.(áªìøÿÿÿÿ8ÖÚÃ¥„.
+osquid:CommentedOutCodeLine•"<This block of commented-out lines of code should be removed.(÷Â•ôûÿÿÿÿ8ÖÚÃ¥„.
+osquid:CommentedOutCodeLineç"<This block of commented-out lines of code should be removed.(ÊÇª„øÿÿÿÿ8ÖÚÃ¥„.
+’squid:S1319Î"tThe type of the "keysToTuples" object should be an interface such as "Map" rather than the implementation "HashMap".(ÇÕ®H8ÖÚÃ¥„.
+Zsquid:S2696„"6Make the enclosing method "static" or remove this set.(±Ñ›ßùÿÿÿÿ8ÚêÁ¥„.
+Zsquid:S2696ã"6Make the enclosing method "static" or remove this set.(Ñ³¤ûÿÿÿÿ8ÚêÁ¥„.
+jsquid:CommentedOutCodeLineõ"<This block of commented-out lines of code should be removed.(åàÏ½8ÑÉ‰î¤.
+jsquid:CommentedOutCodeLine”"<This block of commented-out lines of code should be removed.(§Óÿ8ÚêÁ¥„.
+jsquid:CommentedOutCodeLine´"<This block of commented-out lines of code should be removed.(èŒœõ8ÖÚÃ¥„.
+osquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ƒ€¤Óüÿÿÿÿ8ÖÚÃ¥„.
+csquid:S1134½"DTake the required action to fix the issue indicated by this comment.(Ëë‘ß8ÚêÁ¥„.
+osquid:CommentedOutCodeLineô"<This block of commented-out lines of code should be removed.(ĞèñÊùÿÿÿÿ8ÚêÁ¥„.
+}squid:S2293Í"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÿ·¶ÿÿÿÿÿ8ÚêÁ¥„.
+jsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(™‡øÍ8ÑÉ‰î¤.
+jsquid:CommentedOutCodeLine¼
+"<This block of commented-out lines of code should be removed.(½´Ö¨8ÖÚÃ¥„.
+’squid:S1319ª"tThe type of the "keysToTuples" object should be an interface such as "Map" rather than the implementation "HashMap".(ÇÕ®H8ÚêÁ¥„.
+osquid:CommentedOutCodeLine•"<This block of commented-out lines of code should be removed.(à‰Éıÿÿÿÿ8ÖÚÃ¥„.
+osquid:CommentedOutCodeLineĞ"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ÚêÁ¥„.
+osquid:CommentedOutCodeLineö"<This block of commented-out lines of code should be removed.(ÈÌÎ¬ùÿÿÿÿ8ÖÚÃ¥„.
+Ssquid:S2696@"6Make the enclosing method "static" or remove this set.(×É‚M8ÚêÁ¥„.
+osquid:CommentedOutCodeLineü
+"<This block of commented-out lines of code should be removed.(¹”€ûÿÿÿÿ8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLine¶"<This block of commented-out lines of code should be removed.(ñâ¥Ã8ÖÚÃ¥„.
+osquid:CommentedOutCodeLine
+"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ÚêÁ¥„.
+osquid:CommentedOutCodeLineö"<This block of commented-out lines of code should be removed.(ÌÈù’şÿÿÿÿ8ÖÚÃ¥„.
+osquid:CommentedOutCodeLine©"<This block of commented-out lines of code should be removed.(êÀÆ¾şÿÿÿÿ8ÑÉ‰î¤.
+"squid:ClassVariableVisibilityCheck-"[Make exampleCountDir a static final constant or non-public and provide accessors if needed.(¯ò½½8ÚêÁ¥„.
+jsquid:CommentedOutCodeLineœ"<This block of commented-out lines of code should be removed.(èŒœõ8ÚêÁ¥„.
+osquid:CommentedOutCodeLine–	"<This block of commented-out lines of code should be removed.(ÛÜüÑúÿÿÿÿ8ÖÚÃ¥„.
+osquid:CommentedOutCodeLineğ
+"<This block of commented-out lines of code should be removed.(¯Š±Òúÿÿÿÿ8ÚêÁ¥„.
+|
+squid:S135Ö"YReduce the total number of break and continue statements in this loop to use at most one.(”¼Ğçÿÿÿÿÿ8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLineİ
+"<This block of commented-out lines of code should be removed.(°“§8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLineŒ"<This block of commented-out lines of code should be removed.(¶É›³8ÖÚÃ¥„.
+osquid:CommentedOutCodeLine«
+"<This block of commented-out lines of code should be removed.(ïªüĞüÿÿÿÿ8ÖÚÃ¥„.
+osquid:CommentedOutCodeLine¥	"<This block of commented-out lines of code should be removed.(·¿üÄıÿÿÿÿ8ÖÚÃ¥„.
+isquid:CommentedOutCodeLine³
+"<This block of commented-out lines of code should be removed.(Ö©8ÑÉ‰î¤.
+jsquid:CommentedOutCodeLineú"<This block of commented-out lines of code should be removed.(ƒıâÓ8ÑÉ‰î¤.
+osquid:CommentedOutCodeLine›"<This block of commented-out lines of code should be removed.(ä£¹Âüÿÿÿÿ8ÑÉ‰î¤.
+osquid:CommentedOutCodeLineÕ"<This block of commented-out lines of code should be removed.(Ãã›Æÿÿÿÿÿ8ÑÉ‰î¤.
+isquid:CommentedOutCodeLineã"<This block of commented-out lines of code should be removed.(Êãò8ÖÚÃ¥„.
+xsquid:S2293§"YReplace the type specification in this constructor call with the diamond operator ("<>").(ªÛÍÅ8ÚêÁ¥„.
+jsquid:CommentedOutCodeLine…"<This block of commented-out lines of code should be removed.(µÌ°ş8ÖÚÃ¥„.
+osquid:CommentedOutCodeLineİ"<This block of commented-out lines of code should be removed.(¥ØíÀÿÿÿÿÿ8ÖÚÃ¥„.
+osquid:CommentedOutCodeLineâ"<This block of commented-out lines of code should be removed.(Üû©³ûÿÿÿÿ8ÖÚÃ¥„.
+osquid:CommentedOutCodeLineŸ"<This block of commented-out lines of code should be removed.(ÿˆ¤Úıÿÿÿÿ8ÖÚÃ¥„.
+isquid:CommentedOutCodeLine¬"<This block of commented-out lines of code should be removed.(¨ÅşC8ÖÚÃ¥„.
+osquid:CommentedOutCodeLine¦"<This block of commented-out lines of code should be removed.(î§üˆùÿÿÿÿ8ÖÚÃ¥„.
+osquid:CommentedOutCodeLine˜
+"<This block of commented-out lines of code should be removed.(§ĞÜŠøÿÿÿÿ8ÚêÁ¥„.
+xsquid:S2293ö"YReplace the type specification in this constructor call with the diamond operator ("<>").(ßüâ„8ÚêÁ¥„.
+jsquid:CommentedOutCodeLine˜"<This block of commented-out lines of code should be removed.(Ò©œ¨8ÚêÁ¥„.
+Ssquid:S1066·"/Merge this if statement with the enclosing one.(éàÀşÿÿÿÿ8ÖÚÃ¥„.
+osquid:CommentedOutCodeLineÍ	"<This block of commented-out lines of code should be removed.(â×¯ñùÿÿÿÿ8ÖÚÃ¥„.
+osquid:CommentedOutCodeLine¬"<This block of commented-out lines of code should be removed.(€ááúÿÿÿÿ8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLineô"<This block of commented-out lines of code should be removed.(«öĞ¦8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLine¶	"<This block of commented-out lines of code should be removed.(°“§8ÖÚÃ¥„.
+osquid:CommentedOutCodeLineò"<This block of commented-out lines of code should be removed.(Œ“îüÿÿÿÿ8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLineô"<This block of commented-out lines of code should be removed.(ÆéÊ¯8ÖÚÃ¥„.
+xsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ßüâ„8ÚêÁ¥„.
+{squid:S3252¿"WUse static access with "query.multiColumn.AbstractMultiColVerticaQuerier" for "Policy".(šŒÍèøÿÿÿÿ8ÚêÁ¥„.
+jsquid:CommentedOutCodeLineø"<This block of commented-out lines of code should be removed.(ºÃ¥8ÖÚÃ¥„.
+osquid:CommentedOutCodeLineÖ"<This block of commented-out lines of code should be removed.(Ôïùùÿÿÿÿ8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLine°"<This block of commented-out lines of code should be removed.(Ú°à¬8ÖÚÃ¥„.
+osquid:CommentedOutCodeLineƒ"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ÑÉ‰î¤.
+osquid:CommentedOutCodeLineÃ"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ÚêÁ¥„.
+osquid:CommentedOutCodeLineÔ"<This block of commented-out lines of code should be removed.(È¸‹—úÿÿÿÿ8ÖÚÃ¥„.
+Ysquid:S2696F"6Make the enclosing method "static" or remove this set.(—‘áşÿÿÿÿ8ÚêÁ¥„.
+osquid:CommentedOutCodeLineÊ"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ÖÚÃ¥„.
+]squid:S1444.":Make this "public static initialExampleCounts" field final(ª¶Ñ®ùÿÿÿÿ8ÚêÁ¥„.
+osquid:CommentedOutCodeLineß"<This block of commented-out lines of code should be removed.(æ´®ºÿÿÿÿÿ8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLine×"<This block of commented-out lines of code should be removed.(¿Çã8ÖÚÃ¥„.
+osquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(îëáşøÿÿÿÿ8ÑÉ‰î¤.
+osquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Ãøÿÿÿÿ8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLine‹"<This block of commented-out lines of code should be removed.(ƒĞ8ÖÚÃ¥„.
+isquid:CommentedOutCodeLineı"<This block of commented-out lines of code should be removed.(”òÍe8ÑÉ‰î¤.
+jsquid:CommentedOutCodeLine®"<This block of commented-out lines of code should be removed.(À«Ë–8ÖÚÃ¥„.
+osquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÑÖª“ûÿÿÿÿ8ÖÚÃ¥„.
+csquid:S1134"DTake the required action to fix the issue indicated by this comment.(ğÚë§8ÚêÁ¥„.
+isquid:CommentedOutCodeLine£"<This block of commented-out lines of code should be removed.(è””(8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLineÌ"<This block of commented-out lines of code should be removed.(¥ø‘¶8ÑÉ‰î¤.
+jsquid:CommentedOutCodeLineğ"<This block of commented-out lines of code should be removed.(ğÍÇé8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLine—"<This block of commented-out lines of code should be removed.(ñ¨´Æ8ÖÚÃ¥„.
+osquid:CommentedOutCodeLineÒ	"<This block of commented-out lines of code should be removed.(†Òµîÿÿÿÿÿ8ÖÚÃ¥„.
+osquid:CommentedOutCodeLine§
+"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ÚêÁ¥„.
+osquid:CommentedOutCodeLineÎ"<This block of commented-out lines of code should be removed.(æ¹ï©şÿÿÿÿ8ÖÚÃ¥„.
+Rsquid:S2864é"4Iterate over the "entrySet" instead of the "keySet".(âÎÏ'8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLine¼	"<This block of commented-out lines of code should be removed.(¥ŒÍ¨8ÖÚÃ¥„.
+}squid:S2293ä"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ì Ãªûÿÿÿÿ8ÚêÁ¥„.
+isquid:HiddenFieldCheck"@Rename "inputCSVName" which hides the field declared at line 42.(€Ä¾\8ÖÚÃ¥„.
+osquid:CommentedOutCodeLineÉ"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ÖÚÃ¥„.
+Qsquid:S1481Ô"2Remove this unused "foundExamples" local variable.(¥•Âñ8ÖÚÃ¥„.
+osquid:CommentedOutCodeLine©
+"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ÚêÁ¥„.
+osquid:CommentedOutCodeLineÑ"<This block of commented-out lines of code should be removed.(Øã£ëıÿÿÿÿ8ÖÚÃ¥„.
+osquid:CommentedOutCodeLineÚ"<This block of commented-out lines of code should be removed.(È®Š›úÿÿÿÿ8ÖÚÃ¥„.
+’"squid:ClassVariableVisibilityCheck*"XMake inputCSVName a static final constant or non-public and provide accessors if needed.(ƒˆ°ïşÿÿÿÿ8ÚêÁ¥„.
+jsquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(ßøØÆ8ÖÚÃ¥„.
+osquid:CommentedOutCodeLineø
+"<This block of commented-out lines of code should be removed.(˜÷•šÿÿÿÿÿ8ÖÚÃ¥„.
+osquid:CommentedOutCodeLine£
+"<This block of commented-out lines of code should be removed.(Í‰ÓŠüÿÿÿÿ8ÑÉ‰î¤.
+osquid:CommentedOutCodeLineŒ"<This block of commented-out lines of code should be removed.(·Ÿ´àûÿÿÿÿ8ÖÚÃ¥„.
+Usquid:S2696”"6Make the enclosing method "static" or remove this set.(¤å—š8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLine²"<This block of commented-out lines of code should be removed.(¤¯8ÖÚÃ¥„.
+csquid:S1134Ò"DTake the required action to fix the issue indicated by this comment.(÷Ã“8ÖÚÃ¥„.
+osquid:CommentedOutCodeLineø"<This block of commented-out lines of code should be removed.(åÈÿ¿ÿÿÿÿÿ8ÚêÁ¥„.
+Rsquid:S2209@"5Change this instance-reference to a static reference.(×É‚M8ÚêÁ¥„.
+’squid:S1319…"tThe type of the "keysToTuples" object should be an interface such as "Map" rather than the implementation "HashMap".(ÇÕ®H8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLineú	"<This block of commented-out lines of code should be removed.(À«Ë–8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLineÍ"<This block of commented-out lines of code should be removed.(ƒıâÓ8ÖÚÃ¥„.
+osquid:CommentedOutCodeLineû"<This block of commented-out lines of code should be removed.(¤„øúÿÿÿÿ8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLineÓ"<This block of commented-out lines of code should be removed.(ÀÒ¶‡8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLineŠ"<This block of commented-out lines of code should be removed.(½´Ö¨8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLineÙ"<This block of commented-out lines of code should be removed.(¼´¢„8ÑÉ‰î¤.
+osquid:CommentedOutCodeLine°
+"<This block of commented-out lines of code should be removed.(ãÜŞÀúÿÿÿÿ8ÖÚÃ¥„.
+Usquid:S2696¿"6Make the enclosing method "static" or remove this set.(¾™„Ó8ÚêÁ¥„.
+tsquid:S2068Q"V'password' detected in this expression, review this potentially hard-coded credential.(Ü½ßµ8ÑÉ‰î¤.
+}squid:S2293Ë"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ì Ãªûÿÿÿÿ8ÖÚÃ¥„.
+;squid:S2386,"Make this member "protected".(Íš‡ä8ÚêÁ¥„.
+osquid:CommentedOutCodeLine¦"<This block of commented-out lines of code should be removed.(Ãøÿÿÿÿ8ÖÚÃ¥„.
+osquid:CommentedOutCodeLineŒ"<This block of commented-out lines of code should be removed.(ĞèñÊùÿÿÿÿ8ÚêÁ¥„.
+jsquid:CommentedOutCodeLine¾"<This block of commented-out lines of code should be removed.(‹‡¶•8ÖÚÃ¥„.
+osquid:CommentedOutCodeLine†"<This block of commented-out lines of code should be removed.(£´èÇüÿÿÿÿ8ÑÉ‰î¤.
+jsquid:CommentedOutCodeLine•"<This block of commented-out lines of code should be removed.(¡Õ±š8ÚêÁ¥„.
+jsquid:CommentedOutCodeLineş"<This block of commented-out lines of code should be removed.(½À‘õ8ÖÚÃ¥„.
+isquid:CommentedOutCodeLineO"<This block of commented-out lines of code should be removed.(¼ÀºÍ8ÚêÁ¥„.
+jsquid:CommentedOutCodeLineå"<This block of commented-out lines of code should be removed.(ï‰‘8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLineÃ"<This block of commented-out lines of code should be removed.(ô™»å8ÖÚÃ¥„.
+isquid:CommentedOutCodeLineÌ"<This block of commented-out lines of code should be removed.(…¶—c8ÖÚÃ¥„.
+osquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¡˜–Îûÿÿÿÿ8ÑÉ‰î¤.
+osquid:CommentedOutCodeLine¼"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ÚêÁ¥„.
+Œ"squid:ClassVariableVisibilityCheck,"WMake groundTruth a static final constant or non-public and provide accessors if needed.(Íš‡ä8ÚêÁ¥„.
+Usquid:S2696õ"6Make the enclosing method "static" or remove this set.(¥ê’8ÚêÁ¥„.
+jsquid:CommentedOutCodeLine‚"<This block of commented-out lines of code should be removed.(˜öáÃ8ÑÉ‰î¤.
+osquid:CommentedOutCodeLine™"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ÚêÁ¥„.
+jsquid:CommentedOutCodeLineé"<This block of commented-out lines of code should be removed.(øôÌù8ÖÚÃ¥„.
+osquid:CommentedOutCodeLineš"<This block of commented-out lines of code should be removed.(ÅàßØùÿÿÿÿ8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLineø"<This block of commented-out lines of code should be removed.(š×8ÖÚÃ¥„.
+osquid:CommentedOutCodeLine²"<This block of commented-out lines of code should be removed.(şğ˜ñÿÿÿÿÿ8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLine‡"<This block of commented-out lines of code should be removed.(“ ç«8ÖÚÃ¥„.
+osquid:CommentedOutCodeLineÎ
+"<This block of commented-out lines of code should be removed.(Ãøÿÿÿÿ8ÖÚÃ¥„.
+osquid:CommentedOutCodeLine¨"<This block of commented-out lines of code should be removed.(İóàºøÿÿÿÿ8ÖÚÃ¥„.
+xsquid:S2293Î"YReplace the type specification in this constructor call with the diamond operator ("<>").(ªÛÍÅ8ÚêÁ¥„.
+vsquid:S3252£"WUse static access with "query.multiColumn.AbstractMultiColVerticaQuerier" for "Policy".(Öş¤¡8ÚêÁ¥„.
+osquid:CommentedOutCodeLineí"<This block of commented-out lines of code should be removed.(“âÂ½úÿÿÿÿ8ÖÚÃ¥„.
+isquid:CommentedOutCodeLineî
+"<This block of commented-out lines of code should be removed.(×©øA8ÚêÁ¥„.
+osquid:CommentedOutCodeLineß"<This block of commented-out lines of code should be removed.(„‡³ıÿÿÿÿ8ÖÚÃ¥„.
+nsquid:HiddenFieldCheck¦"?Rename "groundTruth" which hides the field declared at line 44.(ÿ·¶ÿÿÿÿÿ8ÚêÁ¥„.
+jsquid:CommentedOutCodeLineÿ"<This block of commented-out lines of code should be removed.(É¬î8ÖÚÃ¥„.
+osquid:CommentedOutCodeLineó
+"<This block of commented-out lines of code should be removed.(‡äÓ©ûÿÿÿÿ8ÚêÁ¥„.
+osquid:CommentedOutCodeLineÄ"<This block of commented-out lines of code should be removed.(Ê²øúÿÿÿÿ8ÑÉ‰î¤.
+Usquid:S2696‹"6Make the enclosing method "static" or remove this set.(¾™„Ó8ÚêÁ¥„.
+jsquid:CommentedOutCodeLine÷	"<This block of commented-out lines of code should be removed.(£Ÿ€‘8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLine¡"<This block of commented-out lines of code should be removed.(Ï¢ãÿ8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLine£"<This block of commented-out lines of code should be removed.(øÆç8ÚêÁ¥„.
+jsquid:CommentedOutCodeLineÊ"<This block of commented-out lines of code should be removed.(ªšÜ¯8ÖÚÃ¥„.
+osquid:CommentedOutCodeLine¥"<This block of commented-out lines of code should be removed.(ñú™Ÿûÿÿÿÿ8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLineÚ
+"<This block of commented-out lines of code should be removed.(¶ÒÔÍ8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLine„"<This block of commented-out lines of code should be removed.(Ô—á“8ÖÚÃ¥„.
+osquid:CommentedOutCodeLineã"<This block of commented-out lines of code should be removed.(É¤‡“ıÿÿÿÿ8ÖÚÃ¥„.
+osquid:CommentedOutCodeLine™"<This block of commented-out lines of code should be removed.(°¯…éÿÿÿÿÿ8ÑÉ‰î¤.
+jsquid:CommentedOutCodeLineÛ"<This block of commented-out lines of code should be removed.(ƒıâÓ8ÖÚÃ¥„.
+csquid:S1134†"DTake the required action to fix the issue indicated by this comment.(Ëë‘ß8ÚêÁ¥„.
+jsquid:CommentedOutCodeLineã
+"<This block of commented-out lines of code should be removed.(¥ŒÍ¨8ÑÉ‰î¤.
+osquid:CommentedOutCodeLine°"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ÚêÁ¥„.
+Usquid:S2696"6Make the enclosing method "static" or remove this set.(¥ê’8ÚêÁ¥„.
+jsquid:CommentedOutCodeLineØ"<This block of commented-out lines of code should be removed.(öÃÃ‹8ÖÚÃ¥„.
+{squid:S3252’"WUse static access with "query.multiColumn.AbstractMultiColVerticaQuerier" for "Policy".(ıæÊêùÿÿÿÿ8ÖÚÃ¥„.
+osquid:CommentedOutCodeLine…"<This block of commented-out lines of code should be removed.(°Ä°àùÿÿÿÿ8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLineß"<This block of commented-out lines of code should be removed.(§«Ï‹8ÖÚÃ¥„.
+Ssquid:S1444-"5Make this "public static exampleCountDir" field final(¯ò½½8ÚêÁ¥„.
+osquid:CommentedOutCodeLineå"<This block of commented-out lines of code should be removed.(è®Ç­şÿÿÿÿ8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLineÑ"<This block of commented-out lines of code should be removed.(»Œ¡Ş8ÖÚÃ¥„.
+osquid:CommentedOutCodeLine´"<This block of commented-out lines of code should be removed.(ßí‘‚şÿÿÿÿ8ÖÚÃ¥„.
+{squid:S3252§"WUse static access with "query.multiColumn.AbstractMultiColVerticaQuerier" for "Policy".(šŒÍèøÿÿÿÿ8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLineÖ	"<This block of commented-out lines of code should be removed.(Ëı‰·8ÖÚÃ¥„.
+osquid:CommentedOutCodeLineµ"<This block of commented-out lines of code should be removed.(ùŸßÙşÿÿÿÿ8ÑÉ‰î¤.
+osquid:CommentedOutCodeLineë"<This block of commented-out lines of code should be removed.(ê‡‚Ùüÿÿÿÿ8ÑÉ‰î¤.
+osquid:CommentedOutCodeLineô"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ÚêÁ¥„.
+osquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(«ùÚåúÿÿÿÿ8ÖÚÃ¥„.
+Zsquid:S2696¾"6Make the enclosing method "static" or remove this set.(Ñ³¤ûÿÿÿÿ8ÚêÁ¥„.
+osquid:CommentedOutCodeLine‚"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ÚêÁ¥„.
+osquid:CommentedOutCodeLineé
+"<This block of commented-out lines of code should be removed.(€±­µıÿÿÿÿ8ÖÚÃ¥„.
+wsquid:S2293p"YReplace the type specification in this constructor call with the diamond operator ("<>").(ªÛÍÅ8ÚêÁ¥„.
+isquid:CommentedOutCodeLineÈ	"<This block of commented-out lines of code should be removed.(×©øA8ÖÚÃ¥„.
+osquid:CommentedOutCodeLineô"<This block of commented-out lines of code should be removed.(ãÜŞÀúÿÿÿÿ8ÖÚÃ¥„.
+osquid:CommentedOutCodeLineˆ"<This block of commented-out lines of code should be removed.(ÌÈù’şÿÿÿÿ8ÖÚÃ¥„.
+psquid:S3776È"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(ı¬ª/8ÖÚÃ¥„.
+osquid:CommentedOutCodeLineª"<This block of commented-out lines of code should be removed.(ß’©ûÿÿÿÿ8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLine·"<This block of commented-out lines of code should be removed.(şç°Œ8ÑÉ‰î¤.
+Tsquid:S2696X"6Make the enclosing method "static" or remove this set.(ûë·œ8ÑÉ‰î¤.
+osquid:CommentedOutCodeLineå"<This block of commented-out lines of code should be removed.(©ªÍùÿÿÿÿ8ÑÉ‰î¤.
+jsquid:CommentedOutCodeLine…"<This block of commented-out lines of code should be removed.(¶éÍ£8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLineŞ"<This block of commented-out lines of code should be removed.(§Ìâ8ÖÚÃ¥„.
+psquid:S3776¤"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(Äß™^8ÖÚÃ¥„.
+osquid:CommentedOutCodeLine´"<This block of commented-out lines of code should be removed.(¦™¡Şÿÿÿÿÿ8ÖÚÃ¥„.
+osquid:CommentedOutCodeLineî"<This block of commented-out lines of code should be removed.(›Áô£şÿÿÿÿ8ÖÚÃ¥„.
+osquid:CommentedOutCodeLineğ"<This block of commented-out lines of code should be removed.(¨õ”Èùÿÿÿÿ8ÚêÁ¥„.
+Zsquid:S2696‡"6Make the enclosing method "static" or remove this set.(Ñ³¤ûÿÿÿÿ8ÚêÁ¥„.
+jsquid:CommentedOutCodeLineà"<This block of commented-out lines of code should be removed.( ü¦8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLine…"<This block of commented-out lines of code should be removed.(†ïŸ¹8ÖÚÃ¥„.
+osquid:CommentedOutCodeLine‰"<This block of commented-out lines of code should be removed.(×–‚šøÿÿÿÿ8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLineÒ"<This block of commented-out lines of code should be removed.(ŠÇ°à8ÖÚÃ¥„.
+osquid:CommentedOutCodeLineÇ"<This block of commented-out lines of code should be removed.(†È«ìüÿÿÿÿ8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(áî±¶8ÖÚÃ¥„.
+osquid:CommentedOutCodeLineå"<This block of commented-out lines of code should be removed.(£ß– øÿÿÿÿ8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLineİ	"<This block of commented-out lines of code should be removed.(£ó¸8ÖÚÃ¥„.
+osquid:CommentedOutCodeLineâ	"<This block of commented-out lines of code should be removed.(ï„¦‘úÿÿÿÿ8ÑÉ‰î¤.
+nsquid:HiddenFieldCheckÍ"?Rename "groundTruth" which hides the field declared at line 44.(ÿ·¶ÿÿÿÿÿ8ÚêÁ¥„.
+Zsquid:S2696»"6Make the enclosing method "static" or remove this set.(±Ñ›ßùÿÿÿÿ8ÚêÁ¥„.
+qsquid:S3776Ì"RRefactor this method to reduce its Cognitive Complexity from 57 to the 15 allowed.(®ÑøÓ8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLine»"<This block of commented-out lines of code should be removed.(§Ìâ8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLineû"<This block of commented-out lines of code should be removed.(î“¹Ó8ÖÚÃ¥„.
+isquid:CommentedOutCodeLine‰"<This block of commented-out lines of code should be removed.(àûĞ68ÖÚÃ¥„.
+jsquid:CommentedOutCodeLineá"<This block of commented-out lines of code should be removed.(Ïâüé8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÊÄ8ÖÚÃ¥„.
+xsquid:S2293±"YReplace the type specification in this constructor call with the diamond operator ("<>").(ßüâ„8ÖÚÃ¥„.
+osquid:CommentedOutCodeLineÌ"<This block of commented-out lines of code should be removed.(¶£¾ûÿÿÿÿ8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLineË"<This block of commented-out lines of code should be removed.(»Œ¡Ş8ÖÚÃ¥„.
+hsquid:S1134Ò"DTake the required action to fix the issue indicated by this comment.(”ÚÑüÿÿÿÿ8ÖÚÃ¥„.
+osquid:CommentedOutCodeLine 	"<This block of commented-out lines of code should be removed.(ù½˜©şÿÿÿÿ8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLineÛ"<This block of commented-out lines of code should be removed.(—ÖÎ8ÑÉ‰î¤.
+osquid:CommentedOutCodeLineÂ	"<This block of commented-out lines of code should be removed.(€±­µıÿÿÿÿ8ÖÚÃ¥„.
+Wsquid:S1172§"3Remove this unused method parameter "exampleCount".(˜Ş¤Ïüÿÿÿÿ8ÖÚÃ¥„.
+osquid:CommentedOutCodeLineŠ"<This block of commented-out lines of code should be removed.(†È«ìüÿÿÿÿ8ÖÚÃ¥„.
+osquid:CommentedOutCodeLineˆ"<This block of commented-out lines of code should be removed.(ÚŸéşÿÿÿÿ8ÚêÁ¥„.
+Qsquid:S1135Æ"2Complete the task associated to this TODO comment.(®‡ÿ¤8ÚêÁ¥„.
+jsquid:CommentedOutCodeLine³"<This block of commented-out lines of code should be removed.(åğŠÃ8ÖÚÃ¥„.
+osquid:CommentedOutCodeLine¿"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ÖÚÃ¥„.
+isquid:CommentedOutCodeLineè"<This block of commented-out lines of code should be removed.(¨ÅşC8ÖÚÃ¥„.
+osquid:CommentedOutCodeLine°"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8ÖÚÃ¥„.
+osquid:CommentedOutCodeLineò"<This block of commented-out lines of code should be removed.(Ş“®úşÿÿÿÿ8ÑÉ‰î¤.
+jsquid:CommentedOutCodeLineÜ"<This block of commented-out lines of code should be removed.(çÇ…ô8ÑÉ‰î¤.
+osquid:CommentedOutCodeLine—"<This block of commented-out lines of code should be removed.(—²³ìúÿÿÿÿ8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLineş"<This block of commented-out lines of code should be removed.(»Œ¡Ş8ÖÚÃ¥„.
+osquid:CommentedOutCodeLine¬"<This block of commented-out lines of code should be removed.(šâ¯ñÿÿÿÿÿ8ÑÉ‰î¤.
+osquid:CommentedOutCodeLineî"<This block of commented-out lines of code should be removed.(§œşµúÿÿÿÿ8ÖÚÃ¥„.
+osquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(öË€Åıÿÿÿÿ8ÑÉ‰î¤.
+osquid:CommentedOutCodeLine±	"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ÚêÁ¥„.
+osquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¼á­Áşÿÿÿÿ8ÚêÁ¥„.
+osquid:CommentedOutCodeLine›
+"<This block of commented-out lines of code should be removed.(„è£üûÿÿÿÿ8ÖÚÃ¥„.
+’squid:S1319í"tThe type of the "keysToTuples" object should be an interface such as "Map" rather than the implementation "HashMap".(ÇÕ®H8ÚêÁ¥„.
+Xsquid:S1481²"4Remove this unused "exampleFilePath" local variable.(ºæëÄùÿÿÿÿ8ÖÚÃ¥„.
+isquid:CommentedOutCodeLineL"<This block of commented-out lines of code should be removed.(†€éˆ8†‡Ÿ.
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ö©8ÖÚÃ¥„.
+wsquid:S1192¯"XDefine a constant instead of duplicating this literal "com.vertica.jdbc.Driver" 3 times.(›ÃÆ8ÚêÁ¥„.
+Ysquid:S2696E"6Make the enclosing method "static" or remove this set.(‹—Ñ¿ùÿÿÿÿ8ÚêÁ¥„.
+Vsquid:S1135ê"2Complete the task associated to this TODO comment.(¹ÄËúÿÿÿÿ8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLineç"<This block of commented-out lines of code should be removed.(—ÖÎ8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLineÁ"<This block of commented-out lines of code should be removed.(ãğÃØ8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLine›	"<This block of commented-out lines of code should be removed.(Íæª×8ÖÚÃ¥„.
+osquid:CommentedOutCodeLine®"<This block of commented-out lines of code should be removed.(†µ’ëùÿÿÿÿ8ÖÚÃ¥„.
+osquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ÚêÁ¥„.
+jsquid:CommentedOutCodeLine’"<This block of commented-out lines of code should be removed.(®ëä8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLineë"<This block of commented-out lines of code should be removed.(›‰ø8ÖÚÃ¥„.
+psquid:S00117]"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÑÇ×8ÑÉ‰î¤.
+xsquid:S2293Õ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ßüâ„8ÖÚÃ¥„.
+vsquid:S3776ª"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(“Š°ıÿÿÿÿ8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLine€	"<This block of commented-out lines of code should be removed.(½´Ö¨8ÑÉ‰î¤.
+jsquid:CommentedOutCodeLine€"<This block of commented-out lines of code should be removed.(Èœ¾ó8ÖÚÃ¥„.
+osquid:CommentedOutCodeLine×"<This block of commented-out lines of code should be removed.(ĞšØŞÿÿÿÿÿ8ÚêÁ¥„.
+jsquid:CommentedOutCodeLine‡"<This block of commented-out lines of code should be removed.(×¤åÈ8ÖÚÃ¥„.
+osquid:CommentedOutCodeLineÓ"<This block of commented-out lines of code should be removed.(®³¨ƒüÿÿÿÿ8ÖÚÃ¥„.
+jsquid:CommentedOutCodeLineÚ"<This block of commented-out lines of code should be removed.(¦«¢¼8ÖÚÃ¥„.

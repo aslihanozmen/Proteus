@@ -1,0 +1,31 @@
+
+Msquid:S1481œ".Remove this unused "topDomain" local variable.(‘¹ßá8‰ùÄ—¥.
+bsquid:S1155‰">Use isEmpty() to check whether the collection is empty or not.(Ã‚ºáıÿÿÿÿ8–Ô²—¥.
+bsquid:S1155¢">Use isEmpty() to check whether the collection is empty or not.(œÈŸ‹úÿÿÿÿ8–Ô²—¥.
+lsquid:S1871‰"MThis branch's code block is the same as the block for the branch on line 514.(à—Ö‡8Á†˜—¥.
+nsquid:CommentedOutCodeLineM"<This block of commented-out lines of code should be removed.(®åõÈúÿÿÿÿ8»¾œ—¥.
+Jsquid:S1068 "3Remove this unused "domainSchemaMap" private field.(ª³‘ß
+jsquid:CommentedOutCodeLineÜ"<This block of commented-out lines of code should be removed.(¥Ş…ã8–Ô²—¥.
+Isquid:S5411‰"*Use the primitive boolean expression here.(à—Ö‡8–Ô²—¥.
+Xsquid:S2864Ğ"4Iterate over the "entrySet" instead of the "keySet".(•¦°şÿÿÿÿ8–Ô²—¥.
+†squid:S1192â"gDefine a constant instead of duplicating this literal " DELIMITER ',' ENCLOSED BY '\"' DIRECT" 3 times.(êÛ–¤8–Ô²—¥.
+vsquid:S3776Û"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Â÷â˜ıÿÿÿÿ8–Ô²—¥.
+vsquid:S3776­"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ùÑı½øÿÿÿÿ8–Ô²—¥.
+msquid:S1192Œ"IDefine a constant instead of duplicating this literal ",tableid" 4 times.(†ò”Ïùÿÿÿÿ8–Ô²—¥.
+bsquid:S1155 ">Use isEmpty() to check whether the collection is empty or not.(Ã‚ºáıÿÿÿÿ8–Ô²—¥.
+isquid:CommentedOutCodeLine-"<This block of commented-out lines of code should be removed.(Ñ“Ã¡8‰Ó“—¥.
+bsquid:S1155‹">Use isEmpty() to check whether the collection is empty or not.(œÈŸ‹úÿÿÿÿ8–Ô²—¥.
+nsquid:CommentedOutCodeLineS"<This block of commented-out lines of code should be removed.(½èÚÍúÿÿÿÿ8·‚Ã—¥.
+tsquid:S2068F"V'password' detected in this expression, review this potentially hard-coded credential.(š™Öî8½°­—¥.
+tsquid:S1192¤"UDefine a constant instead of duplicating this literal "FROM main_tokenized " 4 times.(şŒ™Ú8–Ô²—¥.
+tsquid:S20686"V'password' detected in this expression, review this potentially hard-coded credential.(Ü½ßµ8îƒ©—¥.
+jsquid:CommentedOutCodeLine¨"<This block of commented-out lines of code should be removed.(’ü¹¬8Í‚Æ—¥.
+\squid:S1155">Use isEmpty() to check whether the collection is empty or not.(¢¦¨H8–Ô²—¥.
+qsquid:S1192á"MDefine a constant instead of duplicating this literal " FROM STDIN " 3 times.(“™è™øÿÿÿÿ8Á†˜—¥.
+psquid:S00117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÑÇ×8îƒ©—¥.
+w
+squid:S135®"YReduce the total number of break and continue statements in this loop to use at most one.(˜Üß8–Ô²—¥.
+\squid:S1155¤">Use isEmpty() to check whether the collection is empty or not.(¢¦¨H8–Ô²—¥.
+jsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ãê–³8‰ùÄ—¥.
+isquid:CommentedOutCodeLine!"<This block of commented-out lines of code should be removed.(È¿¸8²ŠÂ—¥.
+vsquid:S3776Â"RRefactor this method to reduce its Cognitive Complexity from 74 to the 15 allowed.(òàùïúÿÿÿÿ8–Ô²—¥.

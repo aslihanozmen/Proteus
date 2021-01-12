@@ -1,0 +1,10 @@
+
+Vsquid:S1075"ARefactor your code to get this URI from a customizable parameter.(Ê…’
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(à€¡î
+hsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ä½–òıÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÇÚ¥†ùÿÿÿÿ
+›%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(°Âá³
+Rsquid:S1197"8Move the array designator from the variable to the type.(ùï¾ÿÿÿÿÿ
+[squid:S1075"ARefactor your code to get this URI from a customizable parameter.(€‚ô¾úÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÆäîÕùÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÆäîÕùÿÿÿÿ

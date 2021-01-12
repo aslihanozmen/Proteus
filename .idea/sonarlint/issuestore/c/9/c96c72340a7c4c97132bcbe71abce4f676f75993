@@ -1,0 +1,201 @@
+
+‹"squid:ClassVariableVisibilityCheck"ZMake idToExternalId a static final constant or non-public and provide accessors if needed.(‹¯Ó©ûÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(›šÌ¬úÿÿÿÿ
+"squid:ClassVariableVisibilityCheck"]Make schemaMatchWeight a static final constant or non-public and provide accessors if needed.(¨Ä«ùÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(âãØşÿÿÿÿ
+"squid:ClassVariableVisibilityCheck"_Make tableToPriorPartial a static final constant or non-public and provide accessors if needed.(Ù¤é—ûÿÿÿÿ
+Lsquid:S1172"2Remove this unused method parameter "closedWorld".( õ©Šøÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¿€÷ğøÿÿÿÿ
+’squid:S1319"}The type of the "tableToAnswersPartial" object should be an interface such as "Map" rather than the implementation "HashMap".(™Ú½Ï
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(€å¡«
+Dsquid:S1068"/Remove this unused "closedWorld" private field.(•œ¨ô
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(§–Æƒ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ì Ãªûÿÿÿÿ
+Csquid:S1066"/Merge this if statement with the enclosing one.(šÀ<
+"squid:ClassVariableVisibilityCheck"\Make schemaMatchPrior a static final constant or non-public and provide accessors if needed.(ùÂäÉÿÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ç¾¸âÿÿÿÿÿ
+Lsquid:S1068"7Remove this unused "useWeightedExamples" private field.(İÅ 
+=squid:S1604"(Make this anonymous inner class a lambda(£éÆÚ
+"squid:ClassVariableVisibilityCheck"_Make tableToPriorPartial a static final constant or non-public and provide accessors if needed.(Ù¤é—ûÿÿÿÿ
+Nsquid:S2864"4Iterate over the "entrySet" instead of the "keySet".(ÅÿŒşÿÿÿÿ
+Jsquid:S1068"5Remove this unused "localCompleteness" private field.(ÔÆ­µ
+\squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(¥õ¡ı
+Gsquid:S1444"-Make this "public static verbose" field final(¬¡ˆşÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ĞçÊ¤
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ïœéªùÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÎŸÆ©ùÿÿÿÿ
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¦‡ç
+Isquid:S2864"4Iterate over the "entrySet" instead of the "keySet".(¥‰Ã’
+m
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ë©œ¦
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(„Ïİñüÿÿÿÿ
+ƒ"squid:ClassVariableVisibilityCheck"RMake result a static final constant or non-public and provide accessors if needed.(ïœéªùÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ù¤é—ûÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ëç‰üÿÿÿÿ
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(…ˆÂÇ
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(€å¡«
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(•«Ó‡
+Psquid:S1444"6Make this "public static schemaMatchPrior" field final(ùÂäÉÿÿÿÿÿ
+[squid:UnusedPrivateMethod"8Remove this unused private "findFDsWithColInLHS" method.(½†§ê
+Isquid:S2864"4Iterate over the "entrySet" instead of the "keySet".(Û“È÷
+r
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+Xsquid:S3518"CMake sure this expression can't be zero before doing this division.(®ºŠƒ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(„Ïİñüÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ç¾¸âÿÿÿÿÿ
+Lsquid:S1135"2Complete the task associated to this TODO comment.(Ú¨àìûÿÿÿÿ
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(™Ú½Ï
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢¿„º
+œsquid:S1319"The type of the "tableToSchemaPriorPartial" object should be an interface such as "Map" rather than the implementation "HashMap".(Ëç‰üÿÿÿÿ
+asquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(£ÑşÔüÿÿÿÿ
+gsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ŞÉ¨
+0squid:S3626"Remove this redundant jump.(ÉŠ©ƒ
+msquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(üá¦#
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(×Ú‰µøÿÿÿÿ
+@squid:S1075"&Remove this hard-coded path-delimiter.(Å†„Õûÿÿÿÿ
+;squid:S1075"&Remove this hard-coded path-delimiter.(ìåÓØ
+;squid:S1172"&Remove these unused method parameters.(ìÁâß
+lsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(îê¸²øÿÿÿÿ
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(™Ú½Ï
+‡ squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(°ñÆõşÿÿÿÿ
+Lsquid:S1135"2Complete the task associated to this TODO comment.(”¢‡ëşÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼€ê´ùÿÿÿÿ
+œsquid:S1319"The type of the "tableToSchemaPriorPartial" object should be an interface such as "Map" rather than the implementation "HashMap".(Ëç‰üÿÿÿÿ
+"squid:ClassVariableVisibilityCheck"aMake tableToAnswersPartial a static final constant or non-public and provide accessors if needed.(™Ú½Ï
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(§¶…Şûÿÿÿÿ
+Isquid:S1066"/Merge this if statement with the enclosing one.(éàÀşÿÿÿÿ
+ƒ"squid:ClassVariableVisibilityCheck"RMake result a static final constant or non-public and provide accessors if needed.(ïœéªùÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(œøãùşÿÿÿÿ
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ş­ƒ¡
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(´ääÿøÿÿÿÿ
+asquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(èİÎÑşÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÀÌ¢Ó
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(´½šÂ
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(€å¡«
+^squid:S4042"IUse "java.nio.Files#delete" here for better messages on error conditions.(òÚÙ…
+§%squid:RedundantThrowsDeclarationCheck"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(å•û
+–"squid:ClassVariableVisibilityCheck"eMake tableToSchemaPriorPartial a static final constant or non-public and provide accessors if needed.(Ëç‰üÿÿÿÿ
+gsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(¶—ç•
+r
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(–°İÁüÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(°ùüÿÿÿÿ
+Usquid:S3518";Make sure "count" can't be zero before doing this division.(¢Õ¯ˆùÿÿÿÿ
+Š"squid:ClassVariableVisibilityCheck"^Make COVERAGE_THRESHOLD a static final constant or non-public and provide accessors if needed.(à®òî
+gsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(“–ış
+r
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(©Ü ´ûÿÿÿÿ
+_squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(±ä‡&
+Nsquid:S2864"4Iterate over the "entrySet" instead of the "keySet".(¬°§æüÿÿÿÿ
+Isquid:S2864"4Iterate over the "entrySet" instead of the "keySet".(Ö¤ÙŠ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡‰èÛıÿÿÿÿ
+gsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 84 to the 15 allowed.(Â˜Ëí
+Bsquid:S1481"-Remove this unused "maxScore" local variable.(¶¤’
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ØßƒÉûÿÿÿÿ
+‰squid:S1319"oThe type of the "answers" object should be an interface such as "Map" rather than the implementation "HashMap".(îı»ğûÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ĞçÊ¤
+msquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾£d
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(®…¶è
+„"squid:ClassVariableVisibilityCheck"SMake message a static final constant or non-public and provide accessors if needed.(ãÀ¥úÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥ÙŒ´şÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ù¤é—ûÿÿÿÿ
+gsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(“–ış
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ĞçÊ¤
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(äİá
+„"squid:ClassVariableVisibilityCheck"XMake originalOnly a static final constant or non-public and provide accessors if needed.(ªÊÛ¹
+ssquid:S1192"YDefine a constant instead of duplicating this literal " - consolidating results" 4 times.(­Şáâúÿÿÿÿ
+‡ squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(°ñÆõşÿÿÿÿ
+=squid:S1604"(Make this anonymous inner class a lambda(£éÆÚ
+\squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Â˜Ëí
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(§–Æƒ
+Gsquid:S1135"2Complete the task associated to this TODO comment.(§¡×†
+0squid:S3626"Remove this redundant jump.(ÉŠ©ƒ
+Fsquid:S1172",Remove this unused method parameter "table".(°†˜…ùÿÿÿÿ
+Nsquid:S2864"4Iterate over the "entrySet" instead of the "keySet".(ÅÿŒşÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÁŠ“Šşÿÿÿÿ
+ˆsquid:S1319"sThe type of the "checkResult" object should be an interface such as "Map" rather than the implementation "HashMap".(ú¸§µ
+gsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 47 to the 15 allowed.(¡Æâñ
+Dsquid:S1068"/Remove this unused "tableLoader" private field.(ÄĞ÷
+_squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ï—
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(îÌ’ßüÿÿÿÿ
+"squid:ClassVariableVisibilityCheck"PMake done a static final constant or non-public and provide accessors if needed.(Û×‡¸ıÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(“•üëüÿÿÿÿ
+@squid:S1075"&Remove this hard-coded path-delimiter.(²”œÌúÿÿÿÿ
+Msquid:S1444"8Make this "public static COVERAGE_THRESHOLD" field final(à®òî
+Š"squid:ClassVariableVisibilityCheck"YMake fuzzyMatching a static final constant or non-public and provide accessors if needed.(©óñ•üÿÿÿÿ
+Nsquid:S1444"4Make this "public static idToExternalId" field final(‹¯Ó©ûÿÿÿÿ
+•squid:S1319"{The type of the "tableToPriorPartial" object should be an interface such as "Map" rather than the implementation "HashMap".(Ù¤é—ûÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ù‡ıâûÿÿÿÿ
+rsquid:S3008"]Rename this field "COVERAGE_THRESHOLD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à®òî
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ØßƒÉûÿÿÿÿ
+–"squid:ClassVariableVisibilityCheck"eMake tableToSchemaPriorPartial a static final constant or non-public and provide accessors if needed.(Ëç‰üÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(„Ïİñüÿÿÿÿ
+Lsquid:S1135"2Complete the task associated to this TODO comment.(”¢‡ëşÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡‰èÛıÿÿÿÿ
+`squid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(è®ã¶øÿÿÿÿ
+Qsquid:S1444"7Make this "public static schemaMatchWeight" field final(¨Ä«ùÿÿÿÿ
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ş­ƒ¡
+gsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(äïì„
+Xsquid:S3518"CMake sure this expression can't be zero before doing this division.(ÀÍñŸ
+„"squid:ClassVariableVisibilityCheck"SMake verbose a static final constant or non-public and provide accessors if needed.(¬¡ˆşÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(„Ïİñüÿÿÿÿ
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(€å¡«
+=squid:S1604"(Make this anonymous inner class a lambda(£éÆÚ
+Nsquid:S2864"4Iterate over the "entrySet" instead of the "keySet".(ÅÿŒşÿÿÿÿ
+Isquid:S2864"4Iterate over the "entrySet" instead of the "keySet".(¥‰Ã’
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™™ã©
+‡ squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(¦ı¾Œıÿÿÿÿ
+‡squid:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(€‰ç¬úÿÿÿÿ
+Isquid:S2864"4Iterate over the "entrySet" instead of the "keySet".(ÍüÜ‘
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÑµª
+Lsquid:S1172"2Remove this unused method parameter "closedWorld".( õ©Šøÿÿÿÿ
+r
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ŠÑÀƒşÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ëç‰üÿÿÿÿ
+“squid:S1319"~The type of the "localCompletenessCheck" object should be an interface such as "Map" rather than the implementation "HashMap".(£Í„Ì
+’squid:S1319"}The type of the "tableToAnswersPartial" object should be an interface such as "Map" rather than the implementation "HashMap".(™Ú½Ï
+‡ squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(¦ı¾Œıÿÿÿÿ
+[squid:S1192"FDefine a constant instead of duplicating this literal "query" 3 times.(­Ù¯´
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŒÂÓÏ
+=squid:S1604"(Make this anonymous inner class a lambda(£éÆÚ
+msquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(üá¦#
+•squid:S1319"{The type of the "tableToPriorPartial" object should be an interface such as "Map" rather than the implementation "HashMap".(Ù¤é—ûÿÿÿÿ
+Š"squid:ClassVariableVisibilityCheck"YMake toConvergence a static final constant or non-public and provide accessors if needed.(şÍï±ûÿÿÿÿ
+m
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ë©œ¦
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ïœéªùÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ì Ãªûÿÿÿÿ
+"squid:ClassVariableVisibilityCheck"aMake tableToAnswersPartial a static final constant or non-public and provide accessors if needed.(™Ú½Ï
+O
+squid:S899";Do something with the "boolean" value returned by "delete".(òÚÙ…
+Nsquid:S2864"4Iterate over the "entrySet" instead of the "keySet".(ŠÑÀƒşÿÿÿÿ
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¦‡ç
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Èš¥íùÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ØßƒÉûÿÿÿÿ
+Bsquid:S1481"-Remove this unused "maxScore" local variable.(¶¤’
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(äİá
+gsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(±®ÃÌ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ßúÉ¾úÿÿÿÿ
+‚squid:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(±®ÃÌ
+Isquid:S1066"/Merge this if statement with the enclosing one.(…óã ûÿÿÿÿ
+m
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(Şš‚»
+Gsquid:S1135"2Complete the task associated to this TODO comment.(Õ¬ù°
+fsquid:S1192"LDefine a constant instead of duplicating this literal "Iteration " 10 times.(ÒåãÓüÿÿÿÿ
+ƒsquid:S1319"nThe type of the "xzTree" object should be an interface such as "Map" rather than the implementation "HashMap".(‚êÈ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ØßƒÉûÿÿÿÿ
+Csquid:S1481".Remove this unused "filenames" local variable.(¼îÈ
+\squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(¥õ¡ı
+Nsquid:S2864"4Iterate over the "entrySet" instead of the "keySet".(ÅÿŒşÿÿÿÿ
+gsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(È«ïí
+Gsquid:S1444"2Make this "public static originalOnly" field final(ªÊÛ¹
+gsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 72 to the 15 allowed.(å´š”
+‡squid:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(³š¬øÿÿÿÿ
+Nsquid:S2864"4Iterate over the "entrySet" instead of the "keySet".(ÃõûÏøÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ù‡ıâûÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(æúœûÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ƒĞ€½
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(´ääÿøÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(âãØşÿÿÿÿ
+msquid:S3776"SRefactor this method to reduce its Cognitive Complexity from 159 to the 15 allowed.(€‰ç¬úÿÿÿÿ
+ssquid:S1488"^Immediately return this expression instead of assigning it to the temporary variable "rating".(æä€¶

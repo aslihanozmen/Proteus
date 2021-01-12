@@ -1,0 +1,379 @@
+
+esquid:S5361ã"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¯Ò‹Ùúÿÿÿÿ
+Osquid:S1135í"2Complete the task associated to this TODO comment.(’×Ñÿÿÿÿÿÿ
+jsquid:S00117ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İè·Î
+qsquid:S2293ª"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ë¥æ
+Osquid:S1172Í"2Remove this unused method parameter "closedWorld".( õ©Šøÿÿÿÿ
+jsquid:S3776Ë"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(÷ñÊé
+Isquid:S1444y"-Make this "public static verbose" field final(¬¡ˆşÿÿÿÿ
+vsquid:S2293ë"YReplace the type specification in this constructor call with the diamond operator ("<>").(«é÷³ûÿÿÿÿ
+Xsquid:S2864›"4Iterate over the "entrySet" instead of the "keySet".(ÓÙİ×üÿÿÿÿ8µ‡Šé†.
+Csquid:S1075Ã	"&Remove this hard-coded path-delimiter.(²”œÌúÿÿÿÿ
+Rsquid:S2864õ"4Iterate over the "entrySet" instead of the "keySet".(‘“£O8µ‡Šé†.
+jsquid:S3776©"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(“–ış
+hsquid:CommentedOutCodeLineú"<This block of commented-out lines of code should be removed.(›šÌ¬úÿÿÿÿ
+vsquid:S2293­"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ê’œøÿÿÿÿ
+]squid:S2184Í"@Cast one of the operands of this integer division to a "double".(À£ø¼úÿÿÿÿ
+Osquid:S2175†"0A "ComparableSet<String>" cannot contain a "int"(Ä¯—±8µ‡Šé†.
+jsquid:S00117á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ€½æ
+jsquid:S00117¬"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÃÿı
+vsquid:S2293¥"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾×°øüÿÿÿÿ
+jsquid:S00117ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·õ¢‘
+Ssquid:S2864Õ"4Iterate over the "entrySet" instead of the "keySet".(½¢³ç8µ‡Šé†.
+vsquid:S2293û"YReplace the type specification in this constructor call with the diamond operator ("<>").(áƒĞĞûÿÿÿÿ
+esquid:S5361Ì"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¯Ò‹Ùúÿÿÿÿ
+Ssquid:S2864 "4Iterate over the "entrySet" instead of the "keySet".(Õ»…‚8µ‡Šé†.
+Lsquid:S1066Ş	"/Merge this if statement with the enclosing one.(éàÀşÿÿÿÿ
+osquid:S00117Ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜåûÍüÿÿÿÿ
+qsquid:S2293×"YReplace the type specification in this constructor call with the diamond operator ("<>").(€å¡«
+Qsquid:S2864Ÿ"4Iterate over the "entrySet" instead of the "keySet".(ÅÿŒşÿÿÿÿ
+tsquid:S1192Ú"WDefine a constant instead of duplicating this literal " - querying for tables" 3 times.(ÒåãÓüÿÿÿÿ
+Fsquid:S1066Ş"/Merge this if statement with the enclosing one.(šÀ<
+rsquid:S00115P"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(·¶ï”
+vsquid:S2293Î"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÎŸÆ©ùÿÿÿÿ
+psquid:S2293Œ"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾£d
+Lsquid:S1066Ã
+"/Merge this if statement with the enclosing one.(¿ŒØŠûÿÿÿÿ
+hsquid:CommentedOutCodeLine¢"<This block of commented-out lines of code should be removed.(¡âµ×ùÿÿÿÿ
+hsquid:CommentedOutCodeLineœ"<This block of commented-out lines of code should be removed.(¼—’Ïÿÿÿÿÿ
+jsquid:S00117ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›‹Ğï
+usquid:S2293~"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼€ê´ùÿÿÿÿ
+Rsquid:S1444?"6Make this "public static schemaMatchPrior" field final(ùÂäÉÿÿÿÿÿ
+hsquid:CommentedOutCodeLineÌ"<This block of commented-out lines of code should be removed.(åğ€Ïüÿÿÿÿ
+qsquid:S2293Ù"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢¿„º
+qsquid:S2293Å"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ú¼Šİ
+Š squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(º£˜Ñÿÿÿÿÿ
+˜squid:S1319‘"{The type of the "tableToPriorPartial" object should be an interface such as "Map" rather than the implementation "HashMap".(Ù¤é—ûÿÿÿÿ
+qsquid:S2293ú"YReplace the type specification in this constructor call with the diamond operator ("<>").(›‹Ğï
+Ssquid:S2864¢"4Iterate over the "entrySet" instead of the "keySet".(½¢³ç8µ‡Šé†.
+Isquid:S1444u"2Make this "public static originalOnly" field final(ªÊÛ¹
+Ssquid:S1444@"7Make this "public static schemaMatchWeight" field final(¨Ä«ùÿÿÿÿ
+Esquid:S1481´"-Remove this unused "maxScore" local variable.(¶¤’
+Nsquid:S5411Í"*Use the primitive boolean expression here.(†üŒœüÿÿÿÿ8µ‡Šé†.
+psquid:S2293º"YReplace the type specification in this constructor call with the diamond operator ("<>").(üá¦#
+_squid:UnusedPrivateMethodá"9Remove this unused private "similarComputeRating" method.(Œ€½æ
+Osquid:S1172˜"2Remove this unused method parameter "closedWorld".( õ©Šøÿÿÿÿ
+`squid:S1134v"DTake the required action to fix the issue indicated by this comment.(ØÃ·áüÿÿÿÿ
+vsquid:S2293È"YReplace the type specification in this constructor call with the diamond operator ("<>").(ßâÛûÿÿÿÿ
+Ssquid:S2864Ç"4Iterate over the "entrySet" instead of the "keySet".(½¢³ç8µ‡Šé†.
+osquid:S00117Í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†üŒœüÿÿÿÿ
+Msquid:S1481ÿ"0Remove this unused "schemaScore" local variable.(ÒÏµùÿÿÿÿ
+†"squid:ClassVariableVisibilityCheckZ"SMake runtime a static final constant or non-public and provide accessors if needed.(ƒïŸİÿÿÿÿÿ
+"squid:ClassVariableVisibilityCheck“"aMake tableToAnswersPartial a static final constant or non-public and provide accessors if needed.(™Ú½Ï
+jsquid:S00117¾"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿¬äƒ
+osquid:S00117Á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š¬”ÿÿÿÿÿ
+™"squid:ClassVariableVisibilityCheck’"eMake tableToSchemaPriorPartial a static final constant or non-public and provide accessors if needed.(Ëç‰üÿÿÿÿ
+vsquid:S2293¢"YReplace the type specification in this constructor call with the diamond operator ("<>").(´ääÿøÿÿÿÿ
+Jsquid:S1135û"2Complete the task associated to this TODO comment.(º¯ò
+vsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ç¾¸âÿÿÿÿÿ
+Ssquid:S2864µ"4Iterate over the "entrySet" instead of the "keySet".(½¢³ç8µ‡Šé†.
+Nsquid:S5411Ë"*Use the primitive boolean expression here.(ÿ€£ğÿÿÿÿÿ8µ‡Šé†.
+Ssquid:S2864Å"4Iterate over the "entrySet" instead of the "keySet".(½¢³ç8µ‡Šé†.
+qsquid:S2293ù"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ô²Ö’
+Xsquid:S2864±"4Iterate over the "entrySet" instead of the "keySet".(ÅÿŒşÿÿÿÿ8µ‡Šé†.
+Xsquid:S2864Ø"4Iterate over the "entrySet" instead of the "keySet".(Ñ¹Î¦úÿÿÿÿ8µ‡Šé†.
+vsquid:S2293¼"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŠÖ—ûÿÿÿÿ
+csquid:CommentedOutCodeLineë"<This block of commented-out lines of code should be removed.(ğ¥äö
+asquid:S3358»"DExtract this nested ternary operation into an independent statement.(çµĞÖüÿÿÿÿ
+vsquid:S2293¤"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾×°øüÿÿÿÿ
+3squid:S3626­"Remove this redundant jump.(ÉŠ©ƒ
+Osquid:S1135€"2Complete the task associated to this TODO comment.(¸Ä‰ïşÿÿÿÿ
+Ssquid:S2864é"4Iterate over the "entrySet" instead of the "keySet".(½¢³ç8µ‡Šé†.
+jsquid:S00117ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍÛ½
+Xsquid:S2864š"4Iterate over the "entrySet" instead of the "keySet".(ÓÙİ×üÿÿÿÿ8µ‡Šé†.
+"squid:ClassVariableVisibilityCheck|"ZMake idToExternalId a static final constant or non-public and provide accessors if needed.(‹¯Ó©ûÿÿÿÿ
+jsquid:S3776–"RRefactor this method to reduce its Cognitive Complexity from 47 to the 15 allowed.(¡Æâñ
+vsquid:S2293‘"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ù¤é—ûÿÿÿÿ
+osquid:S00117¢"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•èå‡ûÿÿÿÿ
+gsquid:S1764Í"JCorrect one of the identical sub-expressions on both sides of operator "/"(À£ø¼úÿÿÿÿ
+osquid:S00117Æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È³è…ùÿÿÿÿ
+Jsquid:S1135¶"2Complete the task associated to this TODO comment.(º¯ò
+vsquid:S2293»"YReplace the type specification in this constructor call with the diamond operator ("<>").(Èš¥íùÿÿÿÿ
+Qsquid:S1481Ö"9Remove this unused "processedTablesCount" local variable.(üÙ™
+psquid:S2293­"YReplace the type specification in this constructor call with the diamond operator ("<>").(é”ª
+jsquid:S3776–"SRefactor this method to reduce its Cognitive Complexity from 230 to the 15 allowed.(µ·&
+isquid:S00117ı"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ş;
+osquid:S00117¡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅĞùÒşÿÿÿÿ
+Msquid:S1481²"0Remove this unused "scoreOfNone" local variable.(‘È€şûÿÿÿÿ
+Lsquid:S2864Œ
+"4Iterate over the "entrySet" instead of the "keySet".(†‚Ì÷
+Xsquid:S2864×"4Iterate over the "entrySet" instead of the "keySet".(Ñ¹Î¦úÿÿÿÿ8µ‡Šé†.
+ssquid:S1192"VDefine a constant instead of duplicating this literal "No new tables to load" 3 times.(£¸ıØùÿÿÿÿ
+Msquid:S1481³"0Remove this unused "scoreOfNone" local variable.(‘È€şûÿÿÿÿ
+vsquid:S2293¡"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡‰èÛıÿÿÿÿ
+csquid:CommentedOutCodeLine÷	"<This block of commented-out lines of code should be removed.(¾¥ˆ
+Gsquid:S1066Í"/Merge this if statement with the enclosing one.(Ùó®
+Qsquid:S1481í"9Remove this unused "processedTablesCount" local variable.(üÙ™
+hsquid:CommentedOutCodeLine”"<This block of commented-out lines of code should be removed.(ßúÉ¾úÿÿÿÿ
+osquid:S3776ø"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÙØ¤Şıÿÿÿÿ
+Jsquid:S1135±"2Complete the task associated to this TODO comment.(¯¾ÖÏ
+osquid:S00117û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áƒĞĞûÿÿÿÿ
+ssquid:S1192"[Define a constant instead of duplicating this literal " - adjusting answer scores" 3 times.(°Âœ«
+Qsquid:S2864¨"4Iterate over the "entrySet" instead of the "keySet".(ÅÿŒşÿÿÿÿ
+Ssquid:S2864¾"4Iterate over the "entrySet" instead of the "keySet".(½¢³ç8µ‡Šé†.
+Jsquid:S1135­"2Complete the task associated to this TODO comment.(¡Û–±
+Bsquid:S3398Ì"%Move this method into "TableChecker".(«“ÁŞûÿÿÿÿ
+vsquid:S2293÷"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ãë¬Šùÿÿÿÿ
+"squid:ClassVariableVisibilityCheck?"\Make schemaMatchPrior a static final constant or non-public and provide accessors if needed.(ùÂäÉÿÿÿÿÿ
+Psquid:S1444|"4Make this "public static idToExternalId" field final(‹¯Ó©ûÿÿÿÿ
+Šsquid:S1319í"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(Ò®½éÿÿÿÿÿ
+Xsquid:S2864"4Iterate over the "entrySet" instead of the "keySet".(ê­®¶ûÿÿÿÿ8µ‡Šé†.
+vsquid:S2293Ü"YReplace the type specification in this constructor call with the diamond operator ("<>").(ç¾¸âÿÿÿÿÿ
+vsquid:S2293–"YReplace the type specification in this constructor call with the diamond operator ("<>").(ØßƒÉûÿÿÿÿ
+Ssquid:S2864È"4Iterate over the "entrySet" instead of the "keySet".(½¢³ç8µ‡Šé†.
+usquid:S2293k"YReplace the type specification in this constructor call with the diamond operator ("<>").(œøãùşÿÿÿÿ
+“"squid:ClassVariableVisibilityCheck‘"_Make tableToPriorPartial a static final constant or non-public and provide accessors if needed.(Ù¤é—ûÿÿÿÿ
+Nsquid:S1481Ñ"1Remove this unused "isAGoodTable" local variable.(ÚÀî¡øÿÿÿÿ
+osquid:S00117ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À´Â»ùÿÿÿÿ
+Qsquid:S1068¨":Remove this unused "similarityQueryBuilder" private field.(îªÑi
+Asquid:S00108«")Either remove or fill this block of code.(Îı~
+vsquid:S2293—"YReplace the type specification in this constructor call with the diamond operator ("<>").(ØßƒÉûÿÿÿÿ
+qsquid:S2293¦"YReplace the type specification in this constructor call with the diamond operator ("<>").(ç¬‹İ
+csquid:CommentedOutCodeLine„"<This block of commented-out lines of code should be removed.(ºŒí§
+qsquid:S2293Œ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÂûìÛ
+ƒ"squid:ClassVariableVisibilityCheck`"PMake done a static final constant or non-public and provide accessors if needed.(Û×‡¸ıÿÿÿÿ
+csquid:CommentedOutCodeLineÖ"<This block of commented-out lines of code should be removed.(Ø¤Äş
+psquid:S2293Ï"YReplace the type specification in this constructor call with the diamond operator ("<>").(êıê8
+Xsquid:S2864ó"4Iterate over the "entrySet" instead of the "keySet".(ñ½¡Àùÿÿÿÿ8µ‡Šé†.
+Xsquid:S2864ÿ"4Iterate over the "entrySet" instead of the "keySet".(¾ŞÑùÿÿÿÿ8µ‡Šé†.
+Osquid:S1135´"2Complete the task associated to this TODO comment.(™µÔÖûÿÿÿÿ
+„squid:S1319–"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(µ·&
+`squid:S3518­"CMake sure this expression can't be zero before doing this division.(š–¬Ïøÿÿÿÿ
+Qsquid:S2864¡"4Iterate over the "entrySet" instead of the "keySet".(¬°§æüÿÿÿÿ
+ksquid:S3776·"SRefactor this method to reduce its Cognitive Complexity from 224 to the 15 allowed.(Â˜Ëí
+Ÿsquid:S1319’"The type of the "tableToSchemaPriorPartial" object should be an interface such as "Map" rather than the implementation "HashMap".(Ëç‰üÿÿÿÿ
+hsquid:CommentedOutCodeLine£"<This block of commented-out lines of code should be removed.(’ª¿ßøÿÿÿÿ
+Msquid:S1481Ó"0Remove this unused "schemaScore" local variable.(ÒÏµùÿÿÿÿ
+Œ"squid:ClassVariableVisibilityCheck="YMake fuzzyMatching a static final constant or non-public and provide accessors if needed.(©óñ•üÿÿÿÿ
+qsquid:S2293ø"YReplace the type specification in this constructor call with the diamond operator ("<>").(İè·Î
+jsquid:S00117È"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ş´ˆ
+Osquid:S1444;"8Make this "public static COVERAGE_THRESHOLD" field final(à®òî
+csquid:UnusedPrivateMethodÿ"8Remove this unused private "findFDsWithColInLHS" method.(°À³áøÿÿÿÿ
+vsquid:S1488×"^Immediately return this expression instead of assigning it to the temporary variable "rating".(æä€¶
+hsquid:CommentedOutCodeLineø"<This block of commented-out lines of code should be removed.(“•üëüÿÿÿÿ
+osquid:S3776Ç"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(€À¯éüÿÿÿÿ
+osquid:S00117º"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î†ØÀøÿÿÿÿ
+qsquid:S2293¯"YReplace the type specification in this constructor call with the diamond operator ("<>").(»Èš›
+Ssquid:S2864ë"4Iterate over the "entrySet" instead of the "keySet".(½¢³ç8µ‡Šé†.
+csquid:CommentedOutCodeLine†"<This block of commented-out lines of code should be removed.(ĞçÊ¤
+Qsquid:S2864Ÿ"4Iterate over the "entrySet" instead of the "keySet".(ÃõûÏøÿÿÿÿ
+vsquid:S2293²"YReplace the type specification in this constructor call with the diamond operator ("<>").(Äşüıùÿÿÿÿ
+3squid:S3626ğ"Remove this redundant jump.(ÉŠ©ƒ
+csquid:CommentedOutCodeLine¢"<This block of commented-out lines of code should be removed.(Ú°à¬
+Xsquid:S3518Á";Make sure "count" can't be zero before doing this division.(¢Õ¯ˆùÿÿÿÿ
+qsquid:S2293¬"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒÃÿı
+qsquid:S2293î"YReplace the type specification in this constructor call with the diamond operator ("<>").(€å¡«
+hsquid:CommentedOutCodeLineº"<This block of commented-out lines of code should be removed.(ßöİûÿÿÿÿ
+jsquid:S00117ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê¡òŞ
+qsquid:S2293’"YReplace the type specification in this constructor call with the diamond operator ("<>").(…ˆÂÇ
+Esquid:S1604À"(Make this anonymous inner class a lambda(Úş¼ôùÿÿÿÿ
+usquid:S2293m"YReplace the type specification in this constructor call with the diamond operator ("<>").(îÌ’ßüÿÿÿÿ
+Osquid:S1135«"2Complete the task associated to this TODO comment.(’×Ñÿÿÿÿÿÿ
+ƒsquid:S1488Æ"kImmediately return this expression instead of assigning it to the temporary variable "instanceBasedRating".(¸†ÕÕ
+•squid:S1319“"}The type of the "tableToAnswersPartial" object should be an interface such as "Map" rather than the implementation "HashMap".(™Ú½Ï
+Rsquid:S2864´"4Iterate over the "entrySet" instead of the "keySet".(£ˆ»[8µ‡Šé†.
+csquid:CommentedOutCodeLineª"<This block of commented-out lines of code should be removed.(ĞçÊ¤
+csquid:UnusedPrivateMethodè"8Remove this unused private "findFDsWithColAsLHS" method.(çÚÉàüÿÿÿÿ
+csquid:CommentedOutCodeLine²"<This block of commented-out lines of code should be removed.(ĞçÊ¤
+[squid:S1155Ğ">Use isEmpty() to check whether the collection is empty or not.(Û¥å­ûÿÿÿÿ
+Osquid:S1135ø"2Complete the task associated to this TODO comment.(™µÔÖûÿÿÿÿ
+vsquid:S2293é"YReplace the type specification in this constructor call with the diamond operator ("<>").(°ùüÿÿÿÿ
+vsquid:S1488ƒ"^Immediately return this expression instead of assigning it to the temporary variable "rating".(æä€¶
+jsquid:S00117¤"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³š¡÷
+osquid:S3776“"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(×·¤Úıÿÿÿÿ
+Esquid:S1481Ô"-Remove this unused "indexDir" local variable.(»˜’ñ
+"squid:ClassVariableVisibilityCheck@"]Make schemaMatchWeight a static final constant or non-public and provide accessors if needed.(¨Ä«ùÿÿÿÿ
+_squid:S00112Ÿ"FDefine and throw a dedicated exception instead of using a generic one.(œ–®ğ
+psquid:S2293¸"YReplace the type specification in this constructor call with the diamond operator ("<>").(êıê8
+ksquid:S3776õ"SRefactor this method to reduce its Cognitive Complexity from 164 to the 15 allowed.(ˆç–”
+Xsquid:S2864ã"4Iterate over the "entrySet" instead of the "keySet".(ÃõûÏøÿÿÿÿ8µ‡Šé†.
+Nsquid:S1481Ò"6Remove this unused "goodExamplesCount" local variable.(—¨
+>squid:S1075Ï	"&Remove this hard-coded path-delimiter.(”Ç‰Í
+Xsquid:S2864¼"4Iterate over the "entrySet" instead of the "keySet".(ñ½¡Àùÿÿÿÿ8µ‡Šé†.
+Osquid:S1135Œ"2Complete the task associated to this TODO comment.(¸Ä‰ïşÿÿÿÿ
+osquid:S00117ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æËÌ«ÿÿÿÿÿ
+osquid:S00117­"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê’œøÿÿÿÿ
+Jsquid:S1135Ô
+"2Complete the task associated to this TODO comment.(¾Ã‰
+Gsquid:S1066Î"/Merge this if statement with the enclosing one.(Ùó®
+Ssquid:S2864û"4Iterate over the "entrySet" instead of the "keySet".(½¢³ç8µ‡Šé†.
+Xsquid:S2864¯"4Iterate over the "entrySet" instead of the "keySet".(¾ŞÑùÿÿÿÿ8µ‡Šé†.
+qsquid:S2293í"YReplace the type specification in this constructor call with the diamond operator ("<>").(ç¬‹İ
+osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æËÌ«ÿÿÿÿÿ
+p
+squid:S135î"YReduce the total number of break and continue statements in this loop to use at most one.(ë©œ¦
+vsquid:S2293å"YReplace the type specification in this constructor call with the diamond operator ("<>").(´ääÿøÿÿÿÿ
+csquid:CommentedOutCodeLine•"<This block of commented-out lines of code should be removed.(¬ûç
+Asquid:S00108¬")Either remove or fill this block of code.(Îı~
+osquid:S00117¹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸Şş³ùÿÿÿÿ
+ksquid:S3776¦"SRefactor this method to reduce its Cognitive Complexity from 168 to the 15 allowed.(Èùëê
+†"squid:ClassVariableVisibilityCheck_"SMake message a static final constant or non-public and provide accessors if needed.(ãÀ¥úÿÿÿÿ
+qsquid:S2293Ø"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ú¼Šİ
+;squid:S2119ü"Save and re-use this "Random".(šŸ«íøÿÿÿÿ
+Esquid:S1481µ"-Remove this unused "maxScore" local variable.(¶¤’
+csquid:CommentedOutCodeLineö"<This block of commented-out lines of code should be removed.(ã¹ğı
+csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(³îí
+–squid:S1319ù"~The type of the "localCompletenessCheck" object should be an interface such as "Map" rather than the implementation "HashMap".(£Í„Ì
+Š"squid:ClassVariableVisibilityCheckC"WMake useOpenrank a static final constant or non-public and provide accessors if needed.(…œñ¯øÿÿÿÿ
+qsquid:S2293Ç"YReplace the type specification in this constructor call with the diamond operator ("<>").(¦‡ç
+osquid:S00117¿"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÑœÿÿÿÿÿ
+Œ"squid:ClassVariableVisibilityCheck}"YMake toConvergence a static final constant or non-public and provide accessors if needed.(şÍï±ûÿÿÿÿ
+qsquid:S2293š"YReplace the type specification in this constructor call with the diamond operator ("<>").(§–Æƒ
+Nsquid:S5411Æ"*Use the primitive boolean expression here.(È³è…ùÿÿÿÿ8µ‡Šé†.
+Ksquid:S1481„".Remove this unused "oldrating" local variable.(©¹Êøøÿÿÿÿ
+Jsquid:S1135š"2Complete the task associated to this TODO comment.(‚ğ¾¨
+asquid:S1134ò"DTake the required action to fix the issue indicated by this comment.(Ï†Ë¾üÿÿÿÿ
+hsquid:CommentedOutCodeLineÒ"<This block of commented-out lines of code should be removed.(ŞÁ¯¥ûÿÿÿÿ
+jsquid:S00117¸"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Á•
+vsquid:S1192Æ"YDefine a constant instead of duplicating this literal " - consolidating results" 3 times.(ÚÄÊæúÿÿÿÿ
+Gsquid:S1066€"/Merge this if statement with the enclosing one.(±¿¢ü
+hsquid:CommentedOutCodeLineş"<This block of commented-out lines of code should be removed.(ŞÁ¯¥ûÿÿÿÿ
+hsquid:CommentedOutCodeLine¦"<This block of commented-out lines of code should be removed.(›šÌ¬úÿÿÿÿ
+Dsquid:S1481«",Remove this unused "tableID" local variable.(á¦ÈÜ
+bsquid:CommentedOutCodeLine¥"<This block of commented-out lines of code should be removed.(§©î=
+csquid:S2142¿"FEither re-interrupt this method or rethrow the "InterruptedException".(è®ã¶øÿÿÿÿ
+[squid:S3518"CMake sure this expression can't be zero before doing this division.(®ºŠƒ
+Ssquid:S2864Ï"4Iterate over the "entrySet" instead of the "keySet".(Õ»…‚8µ‡Šé†.
+psquid:S2293°"YReplace the type specification in this constructor call with the diamond operator ("<>").(üá¦#
+qsquid:S2293Ì"YReplace the type specification in this constructor call with the diamond operator ("<>").(—ú‘‚
+qsquid:S2293™"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŒÂÓÏ
+Qsquid:S2864î"4Iterate over the "entrySet" instead of the "keySet".(Ò¦Öÿÿÿÿÿ
+csquid:CommentedOutCodeLine÷"<This block of commented-out lines of code should be removed.(ã¹ğı
+vsquid:S2293ä"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡‰èÛıÿÿÿÿ
+vsquid:S2293¿"YReplace the type specification in this constructor call with the diamond operator ("<>").(´ääÿøÿÿÿÿ
+p
+squid:S135Ÿ"YReduce the total number of break and continue statements in this loop to use at most one.(ë©œ¦
+jsquid:S00117Ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªá°‡
+jsquid:S00117÷"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍœÑñ
+\squid:S3358¸"DExtract this nested ternary operation into an independent statement.(¿Á•
+psquid:S2293‚"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾£d
+jsquid:S00117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô²Ö’
+qsquid:S2293Ú"YReplace the type specification in this constructor call with the diamond operator ("<>").(§–Æƒ
+vsquid:S2293’"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ëç‰üÿÿÿÿ
+jsquid:S3776Ğ
+"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Ÿú ñ
+psquid:S2293È"YReplace the type specification in this constructor call with the diamond operator ("<>").(üá¦#
+psquid:S2293×"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾£d
+csquid:CommentedOutCodeLineû"<This block of commented-out lines of code should be removed.(µ†åó
+\squid:S1134Ú"DTake the required action to fix the issue indicated by this comment.(Û†¹Ğ
+Fsquid:S1066İ"/Merge this if statement with the enclosing one.(šÀ<
+osquid:S00117ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜåûÍüÿÿÿÿ
+Ssquid:S2864ë"4Iterate over the "entrySet" instead of the "keySet".(½¢³ç8µ‡Šé†.
+osquid:S1192÷"WDefine a constant instead of duplicating this literal "runtime For Benchmark:" 4 times.(î×“
+Ssquid:S2864Û"4Iterate over the "entrySet" instead of the "keySet".(Õ»…‚8µ‡Šé†.
+csquid:S2142Š"FEither re-interrupt this method or rethrow the "InterruptedException".(è®ã¶øÿÿÿÿ
+Œ"squid:ClassVariableVisibilityCheck;"^Make COVERAGE_THRESHOLD a static final constant or non-public and provide accessors if needed.(à®òî
+Dsquid:S1481"'Remove this unused "oc" local variable.(§¡àéûÿÿÿÿ
+Bsquid:S1481í"*Remove this unused "start" local variable.(’Ã¼
+Xsquid:S2864Ê"4Iterate over the "entrySet" instead of the "keySet".(øú›¤ùÿÿÿÿ8µ‡Šé†.
+hsquid:CommentedOutCodeLineè"<This block of commented-out lines of code should be removed.(­¶àÚûÿÿÿÿ
+vsquid:S2293”"YReplace the type specification in this constructor call with the diamond operator ("<>").(ßâÛûÿÿÿÿ
+csquid:CommentedOutCodeLineš"<This block of commented-out lines of code should be removed.(ôÓÍŞ
+Lsquid:S2864Å"4Iterate over the "entrySet" instead of the "keySet".(Ö¤ÙŠ
+jsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(éÑµª
+†"squid:ClassVariableVisibilityCheck”"RMake result a static final constant or non-public and provide accessors if needed.(ïœéªùÿÿÿÿ
+u
+squid:S135Ò"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+hsquid:CommentedOutCodeLineÕ"<This block of commented-out lines of code should be removed.(©Ü ´ûÿÿÿÿ
+osquid:S00117»"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çµĞÖüÿÿÿÿ
+vsquid:S2293ª"YReplace the type specification in this constructor call with the diamond operator ("<>").(«é÷³ûÿÿÿÿ
+osquid:S00117›"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÙ„Ğşÿÿÿÿ
+tsquid:S3008;"]Rename this field "COVERAGE_THRESHOLD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à®òî
+osquid:S3776œ
+"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(êÄŠùøÿÿÿÿ
+Lsquid:S2864"4Iterate over the "entrySet" instead of the "keySet".(Û“È÷
+jsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÑµª
+Lsquid:S2864©"4Iterate over the "entrySet" instead of the "keySet".(ÍüÜ‘
+Msquid:S1444C"1Make this "public static useOpenrank" field final(…œñ¯øÿÿÿÿ
+Œsquid:S1319—"oThe type of the "answers" object should be an interface such as "Map" rather than the implementation "HashMap".(îı»ğûÿÿÿÿ
+jsquid:S00117½"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨÷ğú
+csquid:S2142Ë"FEither re-interrupt this method or rethrow the "InterruptedException".(è®ã¶øÿÿÿÿ
+hsquid:CommentedOutCodeLine‚"<This block of commented-out lines of code should be removed.(æÊµÃúÿÿÿÿ
+Psquid:S1068†"3Remove this unused "colMatchersFrom" private field.(íçö’ûÿÿÿÿ
+]squid:S2184Ä"@Cast one of the operands of this integer division to a "double".(À£ø¼úÿÿÿÿ
+u
+squid:S135»"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+Rsquid:S2209±"5Change this instance-reference to a static reference.(Ü¬İˆûÿÿÿÿ
+[squid:S1155Ğ">Use isEmpty() to check whether the collection is empty or not.(Û¥å­ûÿÿÿÿ
+psquid:S2293Â"YReplace the type specification in this constructor call with the diamond operator ("<>").(êıê8
+psquid:S1192š"SDefine a constant instead of duplicating this literal " - checking tables" 3 times.(ƒ­ £şÿÿÿÿ
+vsquid:S2293ø"YReplace the type specification in this constructor call with the diamond operator ("<>").(Š„‡øÿÿÿÿ
+vsquid:S2293Ÿ"YReplace the type specification in this constructor call with the diamond operator ("<>").(Š„‡øÿÿÿÿ
+csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(™“İ
+Lsquid:S1172¯"/Remove this unused method parameter "keywords".(¾ÒÇşøÿÿÿÿ
+csquid:CommentedOutCodeLine¡"<This block of commented-out lines of code should be removed.(Ú°à¬
+vsquid:S2293ö"YReplace the type specification in this constructor call with the diamond operator ("<>").(¿¡ÍÖùÿÿÿÿ
+Jsquid:S1135í"2Complete the task associated to this TODO comment.(¢Ûï©
+jsquid:S3776á"RRefactor this method to reduce its Cognitive Complexity from 66 to the 15 allowed.(Œ€½æ
+Isquid:S1068‡"1Remove this unused "colMatchersTo" private field.(™ø¤¾
+qsquid:S2293“"YReplace the type specification in this constructor call with the diamond operator ("<>").(™Ú½Ï
+Qsquid:S2864Ş"4Iterate over the "entrySet" instead of the "keySet".(ÅÿŒşÿÿÿÿ
+3squid:S3626¡"Remove this redundant jump.(ÉŠ©ƒ
+hsquid:CommentedOutCodeLineÛ"<This block of commented-out lines of code should be removed.(¿€÷ğøÿÿÿÿ
+qsquid:S2293€"YReplace the type specification in this constructor call with the diamond operator ("<>").(î”¢—
+Jsquid:S1135Ä"2Complete the task associated to this TODO comment.(²¢øª
+asquid:S1134Û"DTake the required action to fix the issue indicated by this comment.(Ï†Ë¾üÿÿÿÿ
+vsquid:S2293”"YReplace the type specification in this constructor call with the diamond operator ("<>").(ïœéªùÿÿÿÿ
+csquid:CommentedOutCodeLine‡"<This block of commented-out lines of code should be removed.(µ†åó
+Šsquid:S1319Ê"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(³š¬øÿÿÿÿ
+…squid:S1319Ë"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(÷ñÊé
+]squid:S1192g"FDefine a constant instead of duplicating this literal "query" 4 times.(‘¹”Ï
+‹squid:S1319ø"sThe type of the "checkResult" object should be an interface such as "Map" rather than the implementation "HashMap".(ú¸§µ
+†"squid:ClassVariableVisibilityChecku"XMake originalOnly a static final constant or non-public and provide accessors if needed.(ªÊÛ¹
+usquid:S2293l"YReplace the type specification in this constructor call with the diamond operator ("<>").(æúœûÿÿÿÿ
+gsquid:S1764Ä"JCorrect one of the identical sub-expressions on both sides of operator "/"(À£ø¼úÿÿÿÿ
+hsquid:CommentedOutCodeLine»"<This block of commented-out lines of code should be removed.(ßöİûÿÿÿÿ
+bsquid:CommentedOutCodeLinec"<This block of commented-out lines of code should be removed.(®…¶è
+Xsquid:S2864Ô"4Iterate over the "entrySet" instead of the "keySet".(ÃõûÏøÿÿÿÿ8µ‡Šé†.
+hsquid:CommentedOutCodeLineŸ"<This block of commented-out lines of code should be removed.(¤ĞöÖÿÿÿÿÿ
+hsquid:CommentedOutCodeLine¸"<This block of commented-out lines of code should be removed.(“•üëüÿÿÿÿ
+qsquid:S2293‘"YReplace the type specification in this constructor call with the diamond operator ("<>").(´½šÂ
+jsquid:S1192µ"MDefine a constant instead of duplicating this literal "Initializing" 3 times.(ø¼éÎÿÿÿÿÿ
+qsquid:S2293ÿ"YReplace the type specification in this constructor call with the diamond operator ("<>").(´ºÄÉ
+Fsquid:S3010±")Remove this assignment of "inputCSVName".(Ü¬İˆûÿÿÿÿ
+Qsquid:S2864æ"4Iterate over the "entrySet" instead of the "keySet".(ÅÿŒşÿÿÿÿ
+hsquid:CommentedOutCodeLine¿"<This block of commented-out lines of code should be removed.(“•üëüÿÿÿÿ
+osquid:S00117‘"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÙ„Ğşÿÿÿÿ
+isquid:S1192Ú"LDefine a constant instead of duplicating this literal "Iteration " 12 times.(ÒåãÓüÿÿÿÿ
+hsquid:CommentedOutCodeLineè"<This block of commented-out lines of code should be removed.(›šÌ¬úÿÿÿÿ
+Ssquid:S2864ñ"4Iterate over the "entrySet" instead of the "keySet".(½¢³ç8µ‡Šé†.
+Osquid:S1135Š"2Complete the task associated to this TODO comment.(’×Ñÿÿÿÿÿÿ
+ksquid:S3776Ÿ"SRefactor this method to reduce its Cognitive Complexity from 201 to the 15 allowed.(œ–®ğ
+Ksquid:S2864à
+"4Iterate over the "entrySet" instead of the "keySet".(ÌÇI
+Xsquid:S2864"4Iterate over the "entrySet" instead of the "keySet".(ÅÿŒşÿÿÿÿ8µ‡Šé†.
+vsquid:S2293æ"YReplace the type specification in this constructor call with the diamond operator ("<>").(Š„‡øÿÿÿÿ
+jsquid:S3776‚"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ŞÉ¨
+csquid:CommentedOutCodeLine‚"<This block of commented-out lines of code should be removed.(Ø¤Äş
+vsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(«é÷³ûÿÿÿÿ
+jsquid:S00117£"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•µä®
+vsquid:S2293¥"YReplace the type specification in this constructor call with the diamond operator ("<>").(é‘áøûÿÿÿÿ
+p
+squid:S135«"YReduce the total number of break and continue statements in this loop to use at most one.(ë©œ¦
+osquid:S00117Ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ€£ğÿÿÿÿÿ
+jsquid:S00117Ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸±Ù–
+csquid:CommentedOutCodeLineö"<This block of commented-out lines of code should be removed.(ÿ’˜Ø
+Osquid:S2175ï"0A "ComparableSet<String>" cannot contain a "int"(»õÑÎ8µ‡Šé†.
+qsquid:S2293¯"YReplace the type specification in this constructor call with the diamond operator ("<>").(¦‡ç
+Qsquid:S1481Î"9Remove this unused "processedTablesCount" local variable.(üÙ™
+†"squid:ClassVariableVisibilityChecky"SMake verbose a static final constant or non-public and provide accessors if needed.(¬¡ˆşÿÿÿÿ
+Ssquid:S2864"4Iterate over the "entrySet" instead of the "keySet".(‡Ã—à8µ‡Šé†.
+qsquid:S2293Ï"YReplace the type specification in this constructor call with the diamond operator ("<>").(€å¡«
+hsquid:CommentedOutCodeLineÈ"<This block of commented-out lines of code should be removed.(“•üëüÿÿÿÿ
+vsquid:S2293¾"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡‰èÛıÿÿÿÿ
+Xsquid:S2864‚"4Iterate over the "entrySet" instead of the "keySet".(øú›¤ùÿÿÿÿ8µ‡Šé†.
+Esquid:S1481Â"(Remove this unused "tid" local variable.(ÃÌÛ¯ÿÿÿÿÿ
+@squid:S1604"(Make this anonymous inner class a lambda(£éÆÚ
+Esquid:S1481Á"(Remove this unused "tid" local variable.(ÃÌÛ¯ÿÿÿÿÿ
+Xsquid:S2864½"4Iterate over the "entrySet" instead of the "keySet".(ÃõûÏøÿÿÿÿ8µ‡Šé†.
+vsquid:S2293‡"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥ÙŒ´şÿÿÿÿ
+csquid:CommentedOutCodeLine²"<This block of commented-out lines of code should be removed.(ÿ’˜Ø
+qsquid:S2293¹"YReplace the type specification in this constructor call with the diamond operator ("<>").(¦‡ç
+hsquid:CommentedOutCodeLineÎ"<This block of commented-out lines of code should be removed.(Œğ©èşÿÿÿÿ
+Ssquid:S2864Å"4Iterate over the "entrySet" instead of the "keySet".(½¢³ç8µ‡Šé†.
+qsquid:S2293ƒ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ñÅ‡·
+ksquid:S3776´"SRefactor this method to reduce its Cognitive Complexity from 111 to the 15 allowed.(Ò‰½
+osquid:S00117¼"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À¿±æùÿÿÿÿ
+Qsquid:S2864‘"4Iterate over the "entrySet" instead of the "keySet".(Ò¦Öÿÿÿÿÿ
+@squid:S1604"(Make this anonymous inner class a lambda(£éÆÚ
+Jsquid:S1135‚"2Complete the task associated to this TODO comment.(¡Û–±

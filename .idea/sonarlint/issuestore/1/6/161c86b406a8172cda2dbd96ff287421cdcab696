@@ -1,0 +1,89 @@
+
+Qsquid:S1444"7Make this "public static schemaMatchWeight" field final(¨Ä«ùÿÿÿÿ
+Dsquid:S1172"/Remove this unused method parameter "keywords".(Œ™«ş
+esquid:S1192"KDefine a constant instead of duplicating this literal "Iteration " 3 times.(ƒ­ £şÿÿÿÿ
+"squid:ClassVariableVisibilityCheck"aMake tableToAnswersPartial a static final constant or non-public and provide accessors if needed.(™Ú½Ï
+"squid:ClassVariableVisibilityCheck"]Make schemaMatchWeight a static final constant or non-public and provide accessors if needed.(¨Ä«ùÿÿÿÿ
+Lsquid:S1172"2Remove this unused method parameter "closedWorld".( õ©Šøÿÿÿÿ
+Msquid:S1444"8Make this "public static COVERAGE_THRESHOLD" field final(Ç©Ë×
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Èš¥íùÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(œøãùşÿÿÿÿ
+fsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(µ·&
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ĞçÊ¤
+Gsquid:S1444"-Make this "public static verbose" field final(¬¡ˆşÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ßúÉ¾úÿÿÿÿ
+Gsquid:S1444"2Make this "public static originalOnly" field final(ªÊÛ¹
+gsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(÷ñÊé
+–"squid:ClassVariableVisibilityCheck"eMake tableToSchemaPriorPartial a static final constant or non-public and provide accessors if needed.(Ëç‰üÿÿÿÿ
+˜squid:S1319"~The type of the "localCompletenessCheck" object should be an interface such as "Map" rather than the implementation "HashMap".(…Òº¸ÿÿÿÿÿ
+@squid:S1168"+Return an empty collection instead of null.(¥¹ï
+‡squid:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(³š¬øÿÿÿÿ
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™™ã©
+Lsquid:S1172"2Remove this unused method parameter "closedWorld".( õ©Šøÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡‰èÛıÿÿÿÿ
+Psquid:S1444"6Make this "public static schemaMatchPrior" field final(ùÂäÉÿÿÿÿÿ
+asquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(®óÚ€ıÿÿÿÿ
+gsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ŞÉ¨
+`squid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(è®ã¶øÿÿÿÿ
+Nsquid:S2864"4Iterate over the "entrySet" instead of the "keySet".(ÅÿŒşÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¿€÷ğøÿÿÿÿ
+rsquid:S1450"]Remove the "inductiveIters" field and declare it as a local variable in the relevant methods.(ˆÏÑ÷
+„"squid:ClassVariableVisibilityCheck"XMake originalOnly a static final constant or non-public and provide accessors if needed.(ªÊÛ¹
+•squid:S1319"{The type of the "tableToPriorPartial" object should be an interface such as "Map" rather than the implementation "HashMap".(Ù¤é—ûÿÿÿÿ
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(•«Ó‡
+Nsquid:S2864"4Iterate over the "entrySet" instead of the "keySet".(ÅÿŒşÿÿÿÿ
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(™Ú½Ï
+gsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(“–ış
+rsquid:S3008"]Rename this field "COVERAGE_THRESHOLD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç©Ë×
+Gsquid:S1068"2Remove this unused "inductiveIters" private field.(ˆÏÑ÷
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ƒĞ€½
+"squid:ClassVariableVisibilityCheck"\Make schemaMatchPrior a static final constant or non-public and provide accessors if needed.(ùÂäÉÿÿÿÿÿ
+Š"squid:ClassVariableVisibilityCheck"YMake toConvergence a static final constant or non-public and provide accessors if needed.(şÍï±ûÿÿÿÿ
+\squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Úê–÷
+Nsquid:S1444"4Make this "public static idToExternalId" field final(‹¯Ó©ûÿÿÿÿ
+"squid:ClassVariableVisibilityCheck"_Make tableToPriorPartial a static final constant or non-public and provide accessors if needed.(Ù¤é—ûÿÿÿÿ
+ˆsquid:S1319"sThe type of the "checkResult" object should be an interface such as "Map" rather than the implementation "HashMap".(ú¸§µ
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(´½šÂ
+Š"squid:ClassVariableVisibilityCheck"YMake fuzzyMatching a static final constant or non-public and provide accessors if needed.(©óñ•üÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ç¾¸âÿÿÿÿÿ
+fsquid:S1450"QRemove the "va" field and declare it as a local variable in the relevant methods.(¼õÆ¦
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢¿„º
+„"squid:ClassVariableVisibilityCheck"SMake verbose a static final constant or non-public and provide accessors if needed.(¬¡ˆşÿÿÿÿ
+Isquid:S2864"4Iterate over the "entrySet" instead of the "keySet".(Û“È÷
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ç¾¸âÿÿÿÿÿ
+Isquid:S2864"4Iterate over the "entrySet" instead of the "keySet".(ÍüÜ‘
+œsquid:S1319"The type of the "tableToSchemaPriorPartial" object should be an interface such as "Map" rather than the implementation "HashMap".(Ëç‰üÿÿÿÿ
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¦‡ç
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÎŸÆ©ùÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥ÙŒ´şÿÿÿÿ
+gsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 47 to the 15 allowed.(¡Æâñ
+\squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ßéÜì
+‰squid:S1319"oThe type of the "answers" object should be an interface such as "Map" rather than the implementation "HashMap".(îı»ğûÿÿÿÿ
+Usquid:S3518";Make sure "count" can't be zero before doing this division.(õıá¼úÿÿÿÿ
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(§–Æƒ
+?squid:S3398"%Move this method into "TableChecker".(«“ÁŞûÿÿÿÿ
+Nsquid:S2864"4Iterate over the "entrySet" instead of the "keySet".(ÅÿŒşÿÿÿÿ
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(…ˆÂÇ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼€ê´ùÿÿÿÿ
+Xsquid:S3518"CMake sure this expression can't be zero before doing this division.(®ºŠƒ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ëç‰üÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ù¤é—ûÿÿÿÿ
+Nsquid:S2864"4Iterate over the "entrySet" instead of the "keySet".(¬°§æüÿÿÿÿ
+„"squid:ClassVariableVisibilityCheck"SMake message a static final constant or non-public and provide accessors if needed.(ãÀ¥úÿÿÿÿ
+msquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾£d
+Isquid:S2864"4Iterate over the "entrySet" instead of the "keySet".(Ö¤ÙŠ
+’squid:S1319"}The type of the "tableToAnswersPartial" object should be an interface such as "Map" rather than the implementation "HashMap".(™Ú½Ï
+ƒ"squid:ClassVariableVisibilityCheck"RMake result a static final constant or non-public and provide accessors if needed.(ïœéªùÿÿÿÿ
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŒÂÓÏ
+‚squid:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(÷ñÊé
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(®…¶è
+]squid:S3518"CMake sure this expression can't be zero before doing this division.(š–¬Ïøÿÿÿÿ
+squid:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(µ·&
+Š"squid:ClassVariableVisibilityCheck"^Make COVERAGE_THRESHOLD a static final constant or non-public and provide accessors if needed.(Ç©Ë×
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(§–Æƒ
+gsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Úê–÷
+‹"squid:ClassVariableVisibilityCheck"ZMake idToExternalId a static final constant or non-public and provide accessors if needed.(‹¯Ó©ûÿÿÿÿ
+Nsquid:S2864"4Iterate over the "entrySet" instead of the "keySet".(ÅÿŒşÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ïœéªùÿÿÿÿ
+"squid:ClassVariableVisibilityCheck"PMake done a static final constant or non-public and provide accessors if needed.(Û×‡¸ıÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(´ääÿøÿÿÿÿ

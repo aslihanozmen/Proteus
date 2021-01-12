@@ -1,0 +1,71 @@
+
+‰"squid:ClassVariableVisibilityCheck'"[Make exampleCountDir a static final constant or non-public and provide accessors if needed.(¯ò½½
+Jsquid:S1135Œ"2Complete the task associated to this TODO comment.(®‡ÿ¤
+^squid:S1075û"ARefactor your code to get this URI from a customizable parameter.(§¿§€şÿÿÿÿ
+csquid:CommentedOutCodeLineé"<This block of commented-out lines of code should be removed.(Ò©œ¨
+Csquid:S1172–"&Remove these unused method parameters.(ùÏÌóşÿÿÿÿ
+Œsquid:S1319”"tThe type of the "keysToTuples" object should be an interface such as "Map" rather than the implementation "HashMap".(ÄŠÃÖ
+bsquid:CommentedOutCodeLine5"<This block of commented-out lines of code should be removed.(†€éˆ
+hsquid:CommentedOutCodeLine¢"<This block of commented-out lines of code should be removed.(åÈÿ¿ÿÿÿÿÿ
+Vsquid:S1444(":Make this "public static initialExampleCounts" field final(ª¶Ñ®ùÿÿÿÿ
+Csquid:S1172Ø"&Remove these unused method parameters.(ùÏÌóşÿÿÿÿ
+Lsquid:S1444'"5Make this "public static exampleCountDir" field final(¯ò½½
+psquid:S2293H"YReplace the type specification in this constructor call with the diamond operator ("<>").(ªÛÍÅ
+Ksquid:S2864ë"4Iterate over the "entrySet" instead of the "keySet".(âÎÏ'
+Œsquid:S1319–"tThe type of the "keysToTuples" object should be an interface such as "Map" rather than the implementation "HashMap".(ÄŠÃÖ
+hsquid:CommentedOutCodeLine¡"<This block of commented-out lines of code should be removed.(åÈÿ¿ÿÿÿÿÿ
+fsquid:HiddenFieldCheckG"?Rename "groundTruth" which hides the field declared at line 38.(ÿ·¶ÿÿÿÿÿ
+‹"squid:ClassVariableVisibilityCheck)"XMake inputCSVName a static final constant or non-public and provide accessors if needed.(ƒˆ°ïşÿÿÿÿ
+tsquid:S3252„"WUse static access with "query.multiColumn.AbstractMultiColVerticaQuerier" for "Policy".(ıæÊêùÿÿÿÿ
+Hsquid:S1444&"1Make this "public static groundTruth" field final(Íš‡ä
+Nsquid:S2696œ"6Make the enclosing method "static" or remove this set.(¥ê’
+csquid:CommentedOutCodeLine¨"<This block of commented-out lines of code should be removed.(Ò©œ¨
+Ksquid:S2864«"4Iterate over the "entrySet" instead of the "keySet".(£ˆ»[
+isquid:S3776á"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(êÌQ
+Lsquid:S2864‘"4Iterate over the "entrySet" instead of the "keySet".(ÇÚ’„
+hsquid:CommentedOutCodeLineÈ"<This block of commented-out lines of code should be removed.(åÈÿ¿ÿÿÿÿÿ
+vsquid:S2293ß"YReplace the type specification in this constructor call with the diamond operator ("<>").(ùÚÿøÿÿÿÿ
+gsquid:CommentedOutCodeLine3"<This block of commented-out lines of code should be removed.(ïÆî›üÿÿÿÿ
+@squid:S1604ı"(Make this anonymous inner class a lambda(Î™°æ
+csquid:CommentedOutCodeLineÏ"<This block of commented-out lines of code should be removed.(Ò©œ¨
+tsquid:S3252Ã"WUse static access with "query.multiColumn.AbstractMultiColVerticaQuerier" for "Policy".(ıæÊêùÿÿÿÿ
+vsquid:S2293É"YReplace the type specification in this constructor call with the diamond operator ("<>").(Òÿáıüÿÿÿÿ
+Nsquid:S2696‡"6Make the enclosing method "static" or remove this set.(º¶ºª
+^squid:S1192±"GDefine a constant instead of duplicating this literal "COLUMN" 4 times.(«ïÀ
+csquid:CommentedOutCodeLine©"<This block of commented-out lines of code should be removed.(Ò©œ¨
+Jsquid:S1135Ë"2Complete the task associated to this TODO comment.(®‡ÿ¤
+dsquid:S00112œ"FDefine and throw a dedicated exception instead of using a generic one.(èİÎÑşÿÿÿÿ
+vsquid:S2293Å"YReplace the type specification in this constructor call with the diamond operator ("<>").(ùÚÿøÿÿÿÿ
+hsquid:CommentedOutCodeLineá"<This block of commented-out lines of code should be removed.(±–„ùÿÿÿÿ
+vsquid:S2293Ÿ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ùÚÿøÿÿÿÿ
+hsquid:CommentedOutCodeLineâ"<This block of commented-out lines of code should be removed.(åÈÿ¿ÿÿÿÿÿ
+usquid:S2293o"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÿ·¶ÿÿÿÿÿ
+csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(½ŞÎæ
+4squid:S2386&"Make this member "protected".(Íš‡ä
+fsquid:HiddenFieldChecko"?Rename "groundTruth" which hides the field declared at line 38.(ÿ·¶ÿÿÿÿÿ
+Msquid:S26960"6Make the enclosing method "static" or remove this set.(ä°“
+Ssquid:S2696†"6Make the enclosing method "static" or remove this set.(Ê³ÙÇûÿÿÿÿ
+Jsquid:S1135Š"2Complete the task associated to this TODO comment.(˜Ş½Ê
+usquid:S2293G"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÿ·¶ÿÿÿÿÿ
+“"squid:ClassVariableVisibilityCheck("`Make initialExampleCounts a static final constant or non-public and provide accessors if needed.(ª¶Ñ®ùÿÿÿÿ
+^squid:S3518ô"FMake sure "totalCorrectVals" can't be zero before doing this division.(¶Íú
+Ksquid:S2864¾"4Iterate over the "entrySet" instead of the "keySet".(âÎÏ'
+^squid:S3518Ç"FMake sure "totalCorrectVals" can't be zero before doing this division.(¶Íú
+hsquid:CommentedOutCodeLine¶"<This block of commented-out lines of code should be removed.(±–„ùÿÿÿÿ
+osquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(üĞ½Öûÿÿÿÿ
+vsquid:S2293Í"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ì Ãªûÿÿÿÿ
+Rsquid:S2696\"6Make the enclosing method "static" or remove this set.(­©Ïıÿÿÿÿ
+Isquid:S1135b"2Complete the task associated to this TODO comment.(˜Ş½Ê
+vsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ùÚÿøÿÿÿÿ
+Ssquid:S2696„"6Make the enclosing method "static" or remove this set.(­©Ïıÿÿÿÿ
+Ksquid:S2864Ü"4Iterate over the "entrySet" instead of the "keySet".(£ˆ»[
+Msquid:S2696_"6Make the enclosing method "static" or remove this set.(º¶ºª
+Nsquid:S2696İ"6Make the enclosing method "static" or remove this set.(¥ê’
+Œsquid:S1319¼"tThe type of the "keysToTuples" object should be an interface such as "Map" rather than the implementation "HashMap".(ÄŠÃÖ
+Œsquid:S1319Ö"tThe type of the "keysToTuples" object should be an interface such as "Map" rather than the implementation "HashMap".(ÄŠÃÖ
+Rsquid:S2696^"6Make the enclosing method "static" or remove this set.(Ê³ÙÇûÿÿÿÿ
+psquid:S2293p"YReplace the type specification in this constructor call with the diamond operator ("<>").(ªÛÍÅ
+…"squid:ClassVariableVisibilityCheck&"WMake groundTruth a static final constant or non-public and provide accessors if needed.(Íš‡ä
+qsquid:S1192="NDefine a constant instead of duplicating this literal "database_host" 3 times.(ü®¬Óÿÿÿÿÿ8á¢–—¥.
+gsquid:S1192<"IDefine a constant instead of duplicating this literal "database" 3 times.(âòò‘8á¢–—¥.
+tsquid:S2068;"V'password' detected in this expression, review this potentially hard-coded credential.(š™Öî8á¢–—¥.
