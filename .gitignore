@@ -52,7 +52,6 @@ fabric.properties
 *.class
 *.zip
 *.rar
-*.jar
 
 # Log files
 *.log

@@ -13,8 +13,6 @@ H
 src/main/WTEnricher.java,1/6/161c86b406a8172cda2dbd96ff287421cdcab696
 M
 src/main/benchmarkDriver.java,2/b/2b93da82a24605dfaac40010697c0269ed68ac4b
-b
-2benchmark/functional/airport_codes_internalGT2.csv,5/4/5411728ff7183c5b03340928663fc4cb128d1165
 D
 src/main/Driver.java,1/e/1ec40ba45647c7ed4d11f2fe05bd52e050371d38
 e
@@ -68,10 +66,6 @@ L
 V
 &src/model/VerticaBatchTableLoader.java,b/9/b90b04f7dae1782eded7544584aa74cbf7a2e949
 I
-scripts/verticaSchema.sql,5/8/582d51b5caf85b2ffa3d8ae9e49a2b73f298e46e
-F
-scripts/statistics.sql,8/2/82c173107d855777f198bf695b620d9e25a98eaf
-I
 src/dwtc/TableLoader.java,4/5/45f3b6f5de25ca0dd0aa658cab20d4926390ad15
 i
 9src/query/multiColumn/AbstractMultiColVerticaQuerier.java,3/2/32976ecbc2af10c25cff989deeb02d69439defff
@@ -95,27 +89,5 @@ w
 GbenchmarkForReport/experiment/Benchmark_Extract_month_from_datetime.csv,4/4/449a0714d3310e9677fafe546d5957dd8d76734d
 t
 DbenchmarkForReport/experiment/Benchmark_funct_comp_address_state.csv,f/4/f4a3996289bcf12bd7cfd5ccf8e3d6b1f651833c
-
-ObenchmarkMultiColFunctional/Functional/Benchmark_color_number_to_color_code.csv,0/7/07a06dd6b7b380149990ff0a4cc8be5ef21b22a5
-•
-ubenchmarkMultiColFunctional/tablesToCheck/inputDataXFormer.csv/tablesToCheckAfterFiltering/3/(11286, [1], [2], 0).csv,2/5/25b791c1bb6a8ae57f4cdc461f9d4e391fc9de91
-H
-results/results_test.csv,5/d/5d51b94a4344c8a3ec05340ad27a705f48a91894
-H
-results/results_tau4.csv,8/f/8f0ef3edb2425b51ebe9c0f2879c41b50dae4a0b
-[
-+results/results/results_xformer-abedjan.csv,a/5/a5bd4e3450a21ccc8c869d886fbf229197878ad1
-K
-scripts/results_xformer.csv,6/3/63c90534c9c2946e7f532551560fabc81b5b8ebf
-X
-(benchmark/similarity/indexedExamples.txt,1/5/15bbeb8c2f2eab609a9ba72be4ab9ccf8a6dc0a0
-m
-=benchmark/tableToCheck/2006SoccerPlayer2club.csv/5/137436.csv,a/d/ad0e9aa15c0f83024571d0ba33106c2d91d96eb2
 Å
 QbenchmarkForReport/experiment/benchmark_convert_regular_time_to_military_time.csv,1/1/119980817d31611f085e51ced1ea5d6b48fc5872
-p
-@benchmark/csvSyntactic/benchmark-bing-query-logs/semantic_37.csv,a/d/ad4eaa70baa8949a1542d8b5da0f020637dd9d1e
-p
-@benchmark/csvSyntactic/benchmark-bing-query-logs/semantic_13.csv,a/c/ac77bbda8f6099be394c8030f310137afe03622b
-o
-?benchmark/csvSyntactic/benchmark-bing-query-logs/semantic_6.csv,7/3/73ba7c569165f76be2f0b82356bf96457b876953
